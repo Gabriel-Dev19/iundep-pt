@@ -115,6 +115,7 @@ export default {
   head: {
     link: [
       { rel: 'alternate', href: 'https://iundep.com.br/servicos/acompanhamento-de-filho', hreflang: 'x-default' },
+      
       { rel: 'alternate', href: 'https://iundep.com.br/servicos/acompanhamento-de-filho', hreflang: 'pt-br' },
       { rel: 'alternate', href: 'https://iundepdetectives.pt/servicos/acompanhamento-de-filho', hreflang: 'pt' }
     ]
