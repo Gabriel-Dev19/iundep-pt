@@ -95,32 +95,44 @@
                       <h6 class="mb-0 fs-19 ml-10 fw-600">
                         Localidades
                       </h6>
-                      <button class="btn btn-azul fw-600 fs-18 col-12 mt-15 pt-1 text-white px-20" @click.prevent="SantaCatarinaDesktop">
-                        Santa Catarina
+                      <button class="btn btn-azul fw-600 fs-18 col-12 mt-2 pt-1 text-white px-20" @click.prevent="LisboaDesktop">
+                        Lisboa
                       </button>
-                      <button class="btn btn-azul fw-600 fs-18 col-12 mt-2 pt-1 text-white px-20" @click.prevent="ParanaDesktop">
-                        Paraná
+                      <button class="btn btn-azul fw-600 fs-18 col-12 mt-2 pt-1 text-white px-20" @click.prevent="LisboaDesktop">
+                        Lisboa
                       </button>
-                      <button class="btn btn-azul fw-600 fs-18 col-12 mt-2 pt-1 text-white px-20" @click.prevent="RioGrandeDoSulDesktop">
-                        Rio Grande do Sul
+                      <button class="btn btn-azul fw-600 fs-18 col-12 mt-2 pt-1 text-white px-20" @click.prevent="LisboaDesktop">
+                        Lisboa
                       </button>
-                      <button class="btn btn-azul fw-600 fs-18 col-12 mt-2 pt-1 text-white px-20" @click.prevent="SaoPauloDesktop">
-                        São Paulo
+                      <button class="btn btn-azul fw-600 fs-18 col-12 mt-2 pt-1 text-white px-20" @click.prevent="LisboaDesktop">
+                        Lisboa
                       </button>
-                      <button class="btn btn-azul fw-600 fs-18 col-12 mt-2 pt-1 text-white px-20" @click.prevent="RioDeJaneiroDesktop">
-                        Rio de Janeiro
+                      <button class="btn btn-azul fw-600 fs-18 col-12 mt-2 pt-1 text-white px-20" @click.prevent="LisboaDesktop">
+                        Lisboa
                       </button>
-                      <button class="btn btn-azul fw-600 fs-18 col-12 mt-2 pt-1 text-white px-20" @click.prevent="MinasGeraisDesktop">
-                        Minas Gerais
+                      <button class="btn btn-azul fw-600 fs-18 col-12 mt-2 pt-1 text-white px-20" @click.prevent="LisboaDesktop">
+                        Lisboa
                       </button>
-                      <button class="btn btn-azul fw-600 fs-18 col-12 mt-2 pt-1 text-white px-20" @click.prevent="DistritoFederalDesktop">
-                        Distrito Federal
+                      <button class="btn btn-azul fw-600 fs-18 col-12 mt-2 pt-1 text-white px-20" @click.prevent="LisboaDesktop">
+                        Lisboa
                       </button>
-                      <button class="btn btn-azul fw-600 fs-18 col-12 mt-2 pt-1 text-white px-20" @click.prevent="MatoGrossoDoSulDesktop">
-                        Mato Grosso do Sul
+                      <button class="btn btn-azul fw-600 fs-18 col-12 mt-2 pt-1 text-white px-20" @click.prevent="LisboaDesktop">
+                        Lisboa
                       </button>
-                      <button class="btn btn-azul fw-600 fs-18 col-12 mt-2 pt-1 text-white px-20" @click.prevent="GoiasDesktop">
-                        Goiás
+                      <button class="btn btn-azul fw-600 fs-18 col-12 mt-2 pt-1 text-white px-20" @click.prevent="LisboaDesktop">
+                        Lisboa
+                      </button>
+                      <button class="btn btn-azul fw-600 fs-18 col-12 mt-2 pt-1 text-white px-20" @click.prevent="LisboaDesktop">
+                        Lisboa
+                      </button>
+                      <button class="btn btn-azul fw-600 fs-18 col-12 mt-2 pt-1 text-white px-20" @click.prevent="LisboaDesktop">
+                        Lisboa
+                      </button>
+                      <button class="btn btn-azul fw-600 fs-18 col-12 mt-2 pt-1 text-white px-20" @click.prevent="LisboaDesktop">
+                        Lisboa
+                      </button>
+                      <button class="btn btn-azul fw-600 fs-18 col-12 mt-2 pt-1 text-white px-20" @click.prevent="LisboaDesktop">
+                        Lisboa
                       </button>
                     </div>
                   </div>
@@ -233,32 +245,44 @@
                     <h5 class="text-white bb-white fw-600 mb-0 pb-10 fs-17">
                       <i class="fa fa-arrow-left fs-15 mr-1" /> Localidades atendidas
                     </h5>
-                    <button class="btn btn-link text-white col-12 px-0 text-left fs-17 mt-10 pl-0 py-0 fw-600" @click.prevent="SantaCatarinaMobile">
-                      # Santa Catarina
+                    <button class="btn btn-link text-white col-12 px-0 text-left fs-17 pl-0 py-0 fw-600" @click.prevent="LisboaMobile">
+                      # Lisboa
                     </button>
-                    <button class="btn btn-link text-white col-12 px-0 text-left fs-17 pl-0 py-0 fw-600" @click.prevent="ParanaMobile">
-                      # Paraná
+                    <button class="btn btn-link text-white col-12 px-0 text-left fs-17 pl-0 py-0 fw-600" @click.prevent="LisboaMobile">
+                      # Lisboa
                     </button>
-                    <button class="btn btn-link text-white col-12 px-0 text-left fs-17 pl-0 py-0 fw-600" @click.prevent="RioGrandeDoSulMobile">
-                      # Rio Grande do Sul
+                    <button class="btn btn-link text-white col-12 px-0 text-left fs-17 pl-0 py-0 fw-600" @click.prevent="LisboaMobile">
+                      # Lisboa
                     </button>
-                    <button class="btn btn-link text-white col-12 px-0 text-left fs-17 pl-0 py-0 fw-600" @click.prevent="SaoPauloMobile">
-                      # São Paulo
+                    <button class="btn btn-link text-white col-12 px-0 text-left fs-17 pl-0 py-0 fw-600" @click.prevent="LisboaMobile">
+                      # Lisboa
                     </button>
-                    <button class="btn btn-link text-white col-12 px-0 text-left fs-17 pl-0 py-0 fw-600" @click.prevent="RioDeJaneiroMobile">
-                      # Rio de Janeiro
+                    <button class="btn btn-link text-white col-12 px-0 text-left fs-17 pl-0 py-0 fw-600" @click.prevent="LisboaMobile">
+                      # Lisboa
                     </button>
-                    <button class="btn btn-link text-white col-12 px-0 text-left fs-17 pl-0 py-0 fw-600" @click.prevent="MinasGeraisMobile">
-                      # Minas Gerais
+                    <button class="btn btn-link text-white col-12 px-0 text-left fs-17 pl-0 py-0 fw-600" @click.prevent="LisboaMobile">
+                      # Lisboa
                     </button>
-                    <button class="btn btn-link text-white col-12 px-0 text-left fs-17 pl-0 py-0 fw-600" @click.prevent="DistritoFederalMobile">
-                      # Distrito Federal
+                    <button class="btn btn-link text-white col-12 px-0 text-left fs-17 pl-0 py-0 fw-600" @click.prevent="LisboaMobile">
+                      # Lisboa
                     </button>
-                    <button class="btn btn-link text-white col-12 px-0 text-left fs-17 pl-0 py-0 fw-600" @click.prevent="MatoGrossoDoSulMobile">
-                      # Mato Grosso do Sul
+                    <button class="btn btn-link text-white col-12 px-0 text-left fs-17 pl-0 py-0 fw-600" @click.prevent="LisboaMobile">
+                      # Lisboa
                     </button>
-                    <button class="btn btn-link text-white col-12 px-0 text-left fs-17 pl-0 py-0 fw-600" @click.prevent="GoiasMobile">
-                      # Goiás
+                    <button class="btn btn-link text-white col-12 px-0 text-left fs-17 pl-0 py-0 fw-600" @click.prevent="LisboaMobile">
+                      # Lisboa
+                    </button>
+                    <button class="btn btn-link text-white col-12 px-0 text-left fs-17 pl-0 py-0 fw-600" @click.prevent="LisboaMobile">
+                      # Lisboa
+                    </button>
+                    <button class="btn btn-link text-white col-12 px-0 text-left fs-17 pl-0 py-0 fw-600" @click.prevent="LisboaMobile">
+                      # Lisboa
+                    </button>
+                    <button class="btn btn-link text-white col-12 px-0 text-left fs-17 pl-0 py-0 fw-600" @click.prevent="LisboaMobile">
+                      # Lisboa
+                    </button>
+                    <button class="btn btn-link text-white col-12 px-0 text-left fs-17 pl-0 py-0 fw-600" @click.prevent="LisboaMobile">
+                      # Lisboa
                     </button>
                   </div>
                 </div>
@@ -590,8 +614,8 @@ export default {
         this.ShowDropdownEstados = false
       }, 300)
     },
-    GoiasDesktop () {
-      this.$router.push('/detetive-particular-em-Goias#sobre')
+    LisboaDesktop () {
+      this.$router.push('/detetive-particular-em-Lisboa#sobre')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -674,8 +698,8 @@ export default {
       })
       this.CloseNav()
     },
-    GoiasMobile () {
-      this.$router.push('/detetive-particular-em-Goias#sobre')
+    LisboaMobile () {
+      this.$router.push('/detetive-particular-em-Lisboa#sobre')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -793,6 +817,7 @@ export default {
   .content-dropdown{
     position: absolute;
     top: 0;
+    overflow: auto;
   }
   .bg-dropdown{
     background-color: #ffffffe7;
