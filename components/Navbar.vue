@@ -95,44 +95,56 @@
                       <h6 class="mb-0 fs-19 ml-10 fw-600">
                         Localidades
                       </h6>
-                      <button class="btn btn-azul fw-600 fs-18 col-12 mt-2 pt-1 text-white px-20" @click.prevent="LisboaDesktop">
-                        Lisboa
+                      <button class="btn btn-azul fw-600 fs-18 col-12 mt-2 pt-1 text-white px-20" @click.prevent="AveiroDesktop">
+                        Aveiro
+                      </button>
+                      <button class="btn btn-azul fw-600 fs-18 col-12 mt-2 pt-1 text-white px-20" @click.prevent="BragaDesktop">
+                        Braga
+                      </button>
+                      <button class="btn btn-azul fw-600 fs-18 col-12 mt-2 pt-1 text-white px-20" @click.prevent="BragancaDesktop">
+                        Bragança
+                      </button>
+                      <button class="btn btn-azul fw-600 fs-18 col-12 mt-2 pt-1 text-white px-20" @click.prevent="CasteloBrancoDesktop">
+                        Castelo Branco
+                      </button>
+                      <button class="btn btn-azul fw-600 fs-18 col-12 mt-2 pt-1 text-white px-20" @click.prevent="CoimbraDesktop">
+                        Coimbra
+                      </button>
+                      <button class="btn btn-azul fw-600 fs-18 col-12 mt-2 pt-1 text-white px-20" @click.prevent="EvoraDesktop">
+                        Evora
+                      </button>
+                      <button class="btn btn-azul fw-600 fs-18 col-12 mt-2 pt-1 text-white px-20" @click.prevent="FaroDesktop">
+                        Faro
+                      </button>
+                      <button class="btn btn-azul fw-600 fs-18 col-12 mt-2 pt-1 text-white px-20" @click.prevent="GuardaDesktop">
+                        Guarda
+                      </button>
+                      <button class="btn btn-azul fw-600 fs-18 col-12 mt-2 pt-1 text-white px-20" @click.prevent="LeiriaDesktop">
+                        Leiria
                       </button>
                       <button class="btn btn-azul fw-600 fs-18 col-12 mt-2 pt-1 text-white px-20" @click.prevent="LisboaDesktop">
                         Lisboa
                       </button>
-                      <button class="btn btn-azul fw-600 fs-18 col-12 mt-2 pt-1 text-white px-20" @click.prevent="LisboaDesktop">
-                        Lisboa
+                      <button class="btn btn-azul fw-600 fs-18 col-12 mt-2 pt-1 text-white px-20" @click.prevent="PortalegreDesktop">
+                        Portalegre
                       </button>
-                      <button class="btn btn-azul fw-600 fs-18 col-12 mt-2 pt-1 text-white px-20" @click.prevent="LisboaDesktop">
-                        Lisboa
+                      <button class="btn btn-azul fw-600 fs-18 col-12 mt-2 pt-1 text-white px-20" @click.prevent="PortoDesktop">
+                        Porto
                       </button>
-                      <button class="btn btn-azul fw-600 fs-18 col-12 mt-2 pt-1 text-white px-20" @click.prevent="LisboaDesktop">
-                        Lisboa
+                      <button class="btn btn-azul fw-600 fs-18 col-12 mt-2 pt-1 text-white px-20" @click.prevent="SantaremDesktop">
+                        Santarem
                       </button>
-                      <button class="btn btn-azul fw-600 fs-18 col-12 mt-2 pt-1 text-white px-20" @click.prevent="LisboaDesktop">
-                        Lisboa
+                      <button class="btn btn-azul fw-600 fs-18 col-12 mt-2 pt-1 text-white px-20" @click.prevent="SetubalDesktop">
+                        Setubal
                       </button>
-                      <button class="btn btn-azul fw-600 fs-18 col-12 mt-2 pt-1 text-white px-20" @click.prevent="LisboaDesktop">
-                        Lisboa
+                      <button class="btn btn-azul fw-600 fs-18 col-12 mt-2 pt-1 text-white px-20" @click.prevent="VilaCasteloDesktop">
+                        Vila Castelo
                       </button>
-                      <button class="btn btn-azul fw-600 fs-18 col-12 mt-2 pt-1 text-white px-20" @click.prevent="LisboaDesktop">
-                        Lisboa
+                      <button class="btn btn-azul fw-600 fs-18 col-12 mt-2 pt-1 text-white px-20" @click.prevent="VilaRealDesktop">
+                        Vila Real
                       </button>
-                      <button class="btn btn-azul fw-600 fs-18 col-12 mt-2 pt-1 text-white px-20" @click.prevent="LisboaDesktop">
-                        Lisboa
-                      </button>
-                      <button class="btn btn-azul fw-600 fs-18 col-12 mt-2 pt-1 text-white px-20" @click.prevent="LisboaDesktop">
-                        Lisboa
-                      </button>
-                      <button class="btn btn-azul fw-600 fs-18 col-12 mt-2 pt-1 text-white px-20" @click.prevent="LisboaDesktop">
-                        Lisboa
-                      </button>
-                      <button class="btn btn-azul fw-600 fs-18 col-12 mt-2 pt-1 text-white px-20" @click.prevent="LisboaDesktop">
-                        Lisboa
-                      </button>
-                      <button class="btn btn-azul fw-600 fs-18 col-12 mt-2 pt-1 text-white px-20" @click.prevent="LisboaDesktop">
-                        Lisboa
+                      <button class="btn btn-azul fw-600 fs-18 col-12 mt-2 pt-1 text-white px-20" @click.prevent="ViseuDesktop">
+                        Viseu
                       </button>
                     </div>
                   </div>
@@ -245,44 +257,53 @@
                     <h5 class="text-white bb-white fw-600 mb-0 pb-10 fs-17">
                       <i class="fa fa-arrow-left fs-15 mr-1" /> Localidades atendidas
                     </h5>
-                    <button class="btn btn-link text-white col-12 px-0 text-left fs-17 pl-0 py-0 fw-600" @click.prevent="LisboaMobile">
-                      # Lisboa
+                    <button class="btn btn-link text-white col-12 px-0 text-left fs-17 pl-0 py-0 fw-600" @click.prevent="AveiroMobile">
+                      # Aveiro
                     </button>
-                    <button class="btn btn-link text-white col-12 px-0 text-left fs-17 pl-0 py-0 fw-600" @click.prevent="LisboaMobile">
-                      # Lisboa
+                    <button class="btn btn-link text-white col-12 px-0 text-left fs-17 pl-0 py-0 fw-600" @click.prevent="BragaMobile">
+                      # Braga
                     </button>
-                    <button class="btn btn-link text-white col-12 px-0 text-left fs-17 pl-0 py-0 fw-600" @click.prevent="LisboaMobile">
-                      # Lisboa
+                    <button class="btn btn-link text-white col-12 px-0 text-left fs-17 pl-0 py-0 fw-600" @click.prevent="BragancaMobile">
+                      # Bragança
                     </button>
-                    <button class="btn btn-link text-white col-12 px-0 text-left fs-17 pl-0 py-0 fw-600" @click.prevent="LisboaMobile">
-                      # Lisboa
+                    <button class="btn btn-link text-white col-12 px-0 text-left fs-17 pl-0 py-0 fw-600" @click.prevent="CasteloBrancoMobile">
+                      # Castelo Branco
                     </button>
-                    <button class="btn btn-link text-white col-12 px-0 text-left fs-17 pl-0 py-0 fw-600" @click.prevent="LisboaMobile">
-                      # Lisboa
+                    <button class="btn btn-link text-white col-12 px-0 text-left fs-17 pl-0 py-0 fw-600" @click.prevent="CoimbraMobile">
+                      # Coimbra
                     </button>
-                    <button class="btn btn-link text-white col-12 px-0 text-left fs-17 pl-0 py-0 fw-600" @click.prevent="LisboaMobile">
-                      # Lisboa
+                    <button class="btn btn-link text-white col-12 px-0 text-left fs-17 pl-0 py-0 fw-600" @click.prevent="EvoraMobile">
+                      # Evora
                     </button>
-                    <button class="btn btn-link text-white col-12 px-0 text-left fs-17 pl-0 py-0 fw-600" @click.prevent="LisboaMobile">
-                      # Lisboa
+                    <button class="btn btn-link text-white col-12 px-0 text-left fs-17 pl-0 py-0 fw-600" @click.prevent="FaroMobile">
+                      # Faro
                     </button>
-                    <button class="btn btn-link text-white col-12 px-0 text-left fs-17 pl-0 py-0 fw-600" @click.prevent="LisboaMobile">
-                      # Lisboa
+                    <button class="btn btn-link text-white col-12 px-0 text-left fs-17 pl-0 py-0 fw-600" @click.prevent="GuardaMobile">
+                      # Guarda
                     </button>
-                    <button class="btn btn-link text-white col-12 px-0 text-left fs-17 pl-0 py-0 fw-600" @click.prevent="LisboaMobile">
-                      # Lisboa
+                    <button class="btn btn-link text-white col-12 px-0 text-left fs-17 pl-0 py-0 fw-600" @click.prevent="LeiriaMobile">
+                      # Leiria
                     </button>
-                    <button class="btn btn-link text-white col-12 px-0 text-left fs-17 pl-0 py-0 fw-600" @click.prevent="LisboaMobile">
-                      # Lisboa
+                    <button class="btn btn-link text-white col-12 px-0 text-left fs-17 pl-0 py-0 fw-600" @click.prevent="PortalegreMobile">
+                      # Portalegre
                     </button>
-                    <button class="btn btn-link text-white col-12 px-0 text-left fs-17 pl-0 py-0 fw-600" @click.prevent="LisboaMobile">
-                      # Lisboa
+                    <button class="btn btn-link text-white col-12 px-0 text-left fs-17 pl-0 py-0 fw-600" @click.prevent="PortoMobile">
+                      # Porto
                     </button>
-                    <button class="btn btn-link text-white col-12 px-0 text-left fs-17 pl-0 py-0 fw-600" @click.prevent="LisboaMobile">
-                      # Lisboa
+                    <button class="btn btn-link text-white col-12 px-0 text-left fs-17 pl-0 py-0 fw-600" @click.prevent="SantaremMobile">
+                      # Santarem
                     </button>
-                    <button class="btn btn-link text-white col-12 px-0 text-left fs-17 pl-0 py-0 fw-600" @click.prevent="LisboaMobile">
-                      # Lisboa
+                    <button class="btn btn-link text-white col-12 px-0 text-left fs-17 pl-0 py-0 fw-600" @click.prevent="SetubalMobile">
+                      # Setubal
+                    </button>
+                    <button class="btn btn-link text-white col-12 px-0 text-left fs-17 pl-0 py-0 fw-600" @click.prevent="VilaCasteloMobile">
+                      # Vila Castelo
+                    </button>
+                    <button class="btn btn-link text-white col-12 px-0 text-left fs-17 pl-0 py-0 fw-600" @click.prevent="VilaRealMobile">
+                      # Vila Real
+                    </button>
+                    <button class="btn btn-link text-white col-12 px-0 text-left fs-17 pl-0 py-0 fw-600" @click.prevent="ViseuMobile">
+                      # Viseu
                     </button>
                   </div>
                 </div>
@@ -525,9 +546,9 @@ export default {
       })
       this.CloseNav()
     },
-
-    SantaCatarinaDesktop () {
-      this.$router.push('/detetive-particular-em-Santa-Catarina#sobre')
+    // FUNÇÕES DAS CIDADES DESKTOP
+    AveiroDesktop () {
+      this.$router.push('/detetive-particular-em-Aveiro#sobre')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -537,8 +558,8 @@ export default {
         this.ShowDropdownEstados = false
       }, 300)
     },
-    ParanaDesktop () {
-      this.$router.push('/detetive-particular-no-Parana#sobre')
+    BragaDesktop () {
+      this.$router.push('/detetive-particular-em-Braga#sobre')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -548,8 +569,8 @@ export default {
         this.ShowDropdownEstados = false
       }, 300)
     },
-    RioGrandeDoSulDesktop () {
-      this.$router.push('/detetive-particular-no-Rio-Grande-do-Sul#sobre')
+    BragancaDesktop () {
+      this.$router.push('/detetive-particular-em-Braganca#sobre')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -559,8 +580,8 @@ export default {
         this.ShowDropdownEstados = false
       }, 300)
     },
-    SaoPauloDesktop () {
-      this.$router.push('/detetive-particular-em-Sao-Paulo#sobre')
+    CasteloBrancoDesktop () {
+      this.$router.push('/detetive-particular-em-Castelo-Branco#sobre')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -570,8 +591,8 @@ export default {
         this.ShowDropdownEstados = false
       }, 300)
     },
-    RioDeJaneiroDesktop () {
-      this.$router.push('/detetive-particular-no-Rio-de-Janeiro#sobre')
+    CoimbraDesktop () {
+      this.$router.push('/detetive-particular-em-Coimbra#sobre')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -581,8 +602,8 @@ export default {
         this.ShowDropdownEstados = false
       }, 300)
     },
-    MinasGeraisDesktop () {
-      this.$router.push('/detetive-particular-em-Minas-Gerais#sobre')
+    EvoraDesktop () {
+      this.$router.push('/detetive-particular-em-Evora#sobre')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -592,8 +613,8 @@ export default {
         this.ShowDropdownEstados = false
       }, 300)
     },
-    DistritoFederalDesktop () {
-      this.$router.push('/detetive-particular-no-Distrito-Federal#sobre')
+    FaroDesktop () {
+      this.$router.push('/detetive-particular-em-Faro#sobre')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -603,8 +624,19 @@ export default {
         this.ShowDropdownEstados = false
       }, 300)
     },
-    MatoGrossoDoSulDesktop () {
-      this.$router.push('/detetive-particular-no-Mato-Grosso-do-Sul#sobre')
+    GuardaDesktop () {
+      this.$router.push('/detetive-particular-em-Guarda#sobre')
+      this.$smoothScroll({
+        scrollTo: document.getElementById('sobre'),
+        duration: 500,
+        offset: -70
+      })
+      setTimeout(() => {
+        this.ShowDropdownEstados = false
+      }, 300)
+    },
+    LeiriaDesktop () {
+      this.$router.push('/detetive-particular-em-Leiria#sobre')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -625,9 +657,86 @@ export default {
         this.ShowDropdownEstados = false
       }, 300)
     },
-
-    SantaCatarinaMobile () {
-      this.$router.push('/detetive-particular-em-Santa-Catarina#sobre')
+    PortalegreDesktop () {
+      this.$router.push('/detetive-particular-em-Portalegre#sobre')
+      this.$smoothScroll({
+        scrollTo: document.getElementById('sobre'),
+        duration: 500,
+        offset: -70
+      })
+      setTimeout(() => {
+        this.ShowDropdownEstados = false
+      }, 300)
+    },
+    PortoDesktop () {
+      this.$router.push('/detetive-particular-em-Porto#sobre')
+      this.$smoothScroll({
+        scrollTo: document.getElementById('sobre'),
+        duration: 500,
+        offset: -70
+      })
+      setTimeout(() => {
+        this.ShowDropdownEstados = false
+      }, 300)
+    },
+    SantaremDesktop () {
+      this.$router.push('/detetive-particular-em-Santarem#sobre')
+      this.$smoothScroll({
+        scrollTo: document.getElementById('sobre'),
+        duration: 500,
+        offset: -70
+      })
+      setTimeout(() => {
+        this.ShowDropdownEstados = false
+      }, 300)
+    },
+    SetubalDesktop () {
+      this.$router.push('/detetive-particular-em-Setubal#sobre')
+      this.$smoothScroll({
+        scrollTo: document.getElementById('sobre'),
+        duration: 500,
+        offset: -70
+      })
+      setTimeout(() => {
+        this.ShowDropdownEstados = false
+      }, 300)
+    },
+    VilaCasteloDesktop () {
+      this.$router.push('/detetive-particular-em-Vila-Castelo#sobre')
+      this.$smoothScroll({
+        scrollTo: document.getElementById('sobre'),
+        duration: 500,
+        offset: -70
+      })
+      setTimeout(() => {
+        this.ShowDropdownEstados = false
+      }, 300)
+    },
+    VilaRealDesktop () {
+      this.$router.push('/detetive-particular-em-Vila-Real#sobre')
+      this.$smoothScroll({
+        scrollTo: document.getElementById('sobre'),
+        duration: 500,
+        offset: -70
+      })
+      setTimeout(() => {
+        this.ShowDropdownEstados = false
+      }, 300)
+    },
+    ViseuDesktop () {
+      this.$router.push('/detetive-particular-em-Viseu#sobre')
+      this.$smoothScroll({
+        scrollTo: document.getElementById('sobre'),
+        duration: 500,
+        offset: -70
+      })
+      setTimeout(() => {
+        this.ShowDropdownEstados = false
+      }, 300)
+    },
+    // FUNÇÕES DAS CIDADES MOBILE
+    AveiroMobile () {
+      this.$router.push('/detetive-particular-em-Aveiro#sobre')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -635,8 +744,8 @@ export default {
       })
       this.CloseNav()
     },
-    ParanaMobile () {
-      this.$router.push('/detetive-particular-no-Parana#sobre')
+    BragaMobile () {
+      this.$router.push('/detetive-particular-em-Braga#sobre')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -644,8 +753,8 @@ export default {
       })
       this.CloseNav()
     },
-    RioGrandeDoSulMobile () {
-      this.$router.push('/detetive-particular-no-Rio-Grande-do-Sul#sobre')
+    BragancaMobile () {
+      this.$router.push('/detetive-particular-em-Braganca#sobre')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -653,8 +762,8 @@ export default {
       })
       this.CloseNav()
     },
-    SaoPauloMobile () {
-      this.$router.push('/detetive-particular-em-Sao-Paulo#sobre')
+    CasteloBrancoMobile () {
+      this.$router.push('/detetive-particular-em-Castelo-Branco#sobre')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -662,8 +771,8 @@ export default {
       })
       this.CloseNav()
     },
-    RioDeJaneiroMobile () {
-      this.$router.push('/detetive-particular-no-Rio-de-Janeiro#sobre')
+    CoimbraMobile () {
+      this.$router.push('/detetive-particular-em-Coimbra#sobre')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -671,8 +780,8 @@ export default {
       })
       this.CloseNav()
     },
-    MinasGeraisMobile () {
-      this.$router.push('/detetive-particular-em-Minas-Gerais#sobre')
+    EvoraMobile () {
+      this.$router.push('/detetive-particular-em-Evora#sobre')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -680,8 +789,8 @@ export default {
       })
       this.CloseNav()
     },
-    DistritoFederalMobile () {
-      this.$router.push('/detetive-particular-no-Distrito-Federal#sobre')
+    FaroMobile () {
+      this.$router.push('/detetive-particular-em-Faro#sobre')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -689,8 +798,17 @@ export default {
       })
       this.CloseNav()
     },
-    MatoGrossoDoSulMobile () {
-      this.$router.push('/detetive-particular-no-Mato-Grosso-do-Sul#sobre')
+    GuardaMobile () {
+      this.$router.push('/detetive-particular-em-Guarda#sobre')
+      this.$smoothScroll({
+        scrollTo: document.getElementById('sobre'),
+        duration: 500,
+        offset: -60
+      })
+      this.CloseNav()
+    },
+    LeiriaMobile () {
+      this.$router.push('/detetive-particular-em-Leiria#sobre')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -700,6 +818,69 @@ export default {
     },
     LisboaMobile () {
       this.$router.push('/detetive-particular-em-Lisboa#sobre')
+      this.$smoothScroll({
+        scrollTo: document.getElementById('sobre'),
+        duration: 500,
+        offset: -60
+      })
+      this.CloseNav()
+    },
+    PortalegreMobile () {
+      this.$router.push('/detetive-particular-em-Portalegre#sobre')
+      this.$smoothScroll({
+        scrollTo: document.getElementById('sobre'),
+        duration: 500,
+        offset: -60
+      })
+      this.CloseNav()
+    },
+    PortoMobile () {
+      this.$router.push('/detetive-particular-em-Porto#sobre')
+      this.$smoothScroll({
+        scrollTo: document.getElementById('sobre'),
+        duration: 500,
+        offset: -60
+      })
+      this.CloseNav()
+    },
+    SantaremMobile () {
+      this.$router.push('/detetive-particular-em-Santarem#sobre')
+      this.$smoothScroll({
+        scrollTo: document.getElementById('sobre'),
+        duration: 500,
+        offset: -60
+      })
+      this.CloseNav()
+    },
+    SetubalMobile () {
+      this.$router.push('/detetive-particular-em-Setubal#sobre')
+      this.$smoothScroll({
+        scrollTo: document.getElementById('sobre'),
+        duration: 500,
+        offset: -60
+      })
+      this.CloseNav()
+    },
+    VilaCasteloMobile () {
+      this.$router.push('/detetive-particular-em-Vila-Castelo#sobre')
+      this.$smoothScroll({
+        scrollTo: document.getElementById('sobre'),
+        duration: 500,
+        offset: -60
+      })
+      this.CloseNav()
+    },
+    VilaRealMobile () {
+      this.$router.push('/detetive-particular-em-Vila-Real#sobre')
+      this.$smoothScroll({
+        scrollTo: document.getElementById('sobre'),
+        duration: 500,
+        offset: -60
+      })
+      this.CloseNav()
+    },
+    ViseuMobile () {
+      this.$router.push('/detetive-particular-em-Viseu#sobre')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
