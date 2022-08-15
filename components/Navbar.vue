@@ -225,31 +225,31 @@
                     <h5 class="text-white bb-white fw-600 mb-0 pb-10 fs-17">
                       <i class="fa fa-arrow-left fs-15 mr-1" /> Nossos serviços
                     </h5>
-                    <button class="btn btn-link text-white fs-17 mt-10 pl-0 py-0 fw-600" @click.prevent="InvestigacaoConjugalDesktopNavbar">
+                    <button class="btn text-left btn-link text-white fs-17 mt-10 pl-0 py-0 fw-600" @click.prevent="InvestigacaoConjugalDesktopNavbar">
                       # Investigação conjugal
                     </button>
-                    <button class="btn btn-link text-white fs-17 pl-0 py-0 fw-600" @click.prevent="InvestigacaoEmpresarialDesktopNavbar">
+                    <button class="btn text-left btn-link text-white fs-17 pl-0 py-0 fw-600" @click.prevent="InvestigacaoEmpresarialDesktopNavbar">
                       # Investigação empresarial
                     </button>
-                    <button class="btn btn-link text-white fs-17 pl-0 py-0 fw-600" @click.prevent="InvestigacaoPoliticaDesktopNavbar">
+                    <button class="btn text-left btn-link text-white fs-17 pl-0 py-0 fw-600" @click.prevent="InvestigacaoPoliticaDesktopNavbar">
                       # Investigação política
                     </button>
-                    <button class="btn btn-link text-white fs-17 pl-0 py-0 fw-600" @click.prevent="LocalizacaoDesktopNavbar">
+                    <button class="btn text-left btn-link text-white fs-17 pl-0 py-0 fw-600" @click.prevent="LocalizacaoDesktopNavbar">
                       # Localização de pessoas
                     </button>
-                    <button class="btn btn-link text-white fs-17 pl-0 py-0 fw-600" @click.prevent="SoftwareEspiaoDesktopNavbar">
+                    <button class="btn text-left btn-link text-white fs-17 pl-0 py-0 fw-600" @click.prevent="SoftwareEspiaoDesktopNavbar">
                       # Programa de celular VIP
                     </button>
-                    <button class="btn btn-link text-white fs-17 pl-0 py-0 fw-600" @click.prevent="CursoDesktopNavbar">
+                    <button class="btn text-left btn-link text-white fs-17 pl-0 py-0 fw-600" @click.prevent="CursoDesktopNavbar">
                       # Curso de detetive
                     </button>
-                    <button class="btn btn-link text-white fs-17 pl-0 py-0 fw-600" @click.prevent="AcompanhamentoDesktopNavbar">
+                    <button class="btn text-left btn-link text-white fs-17 pl-0 py-0 fw-600" @click.prevent="AcompanhamentoDesktopNavbar">
                       # Acompanhamento de filho
                     </button>
-                    <button class="btn btn-link text-white fs-17 pl-0 py-0 fw-600" @click.prevent="Politica">
+                    <button class="btn text-left btn-link text-white fs-17 pl-0 py-0 fw-600" @click.prevent="Politica">
                       # Políticas de privacidade
                     </button>
-                    <button class="btn btn-link text-white fs-17 pl-0 py-0 fw-600" @click.prevent="Trabalhe">
+                    <button class="btn text-left btn-link text-white fs-17 pl-0 py-0 fw-600" @click.prevent="Trabalhe">
                       # Trabalhe com a IUNDEP
                     </button>
                   </div>
@@ -257,7 +257,7 @@
                     <h5 class="text-white bb-white fw-600 mb-0 pb-10 fs-17">
                       <i class="fa fa-arrow-left fs-15 mr-1" /> Localidades atendidas
                     </h5>
-                    <button class="btn btn-link text-white col-12 px-0 text-left fs-17 pl-0 py-0 fw-600" @click.prevent="AveiroMobile">
+                    <button class="btn btn-link text-white mt-10 col-12 px-0 text-left fs-17 pl-0 py-0 fw-600" @click.prevent="AveiroMobile">
                       # Aveiro
                     </button>
                     <button class="btn btn-link text-white col-12 px-0 text-left fs-17 pl-0 py-0 fw-600" @click.prevent="BragaMobile">
