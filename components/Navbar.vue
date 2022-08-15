@@ -111,7 +111,7 @@
                         Coimbra
                       </button>
                       <button class="btn btn-azul fw-600 fs-18 col-12 mt-2 pt-1 text-white px-20" @click.prevent="EvoraDesktop">
-                        Evora
+                        Évora
                       </button>
                       <button class="btn btn-azul fw-600 fs-18 col-12 mt-2 pt-1 text-white px-20" @click.prevent="FaroDesktop">
                         Faro
@@ -273,7 +273,7 @@
                       # Coimbra
                     </button>
                     <button class="btn btn-link text-white col-12 px-0 text-left fs-17 pl-0 py-0 fw-600" @click.prevent="EvoraMobile">
-                      # Evora
+                      # Évora
                     </button>
                     <button class="btn btn-link text-white col-12 px-0 text-left fs-17 pl-0 py-0 fw-600" @click.prevent="FaroMobile">
                       # Faro
