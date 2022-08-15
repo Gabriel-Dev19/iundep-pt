@@ -3,12 +3,12 @@
     <div class="col-12 d-flex row mx-auto px-0">
       <div class="col-lg-7 px-0">
         <h2 class="text-azul fs-xs-28 fs-sm-30 fs-lg-32 text-xs-center text-sm-center text-lg-left fw-600">
-          Detetive particular em Viseu.
+          Detetive particular em Viana do Castelo.
           <br>
-          Precisando de um detetive particular em Viseu?
+          Precisando de um detetive particular em Viana do Castelo?
         </h2>
         <p class="fw-600 text-xs-center text-sm-center text-lg-left mt-20 fs-18">
-          A IUNDEP DETETIVES está em Viseu e queremos ajudar você a solucionar suas dúvidas.
+          A IUNDEP DETETIVES está em Viana do Castelo e queremos ajudar você a solucionar suas dúvidas.
           Com mais de 20 anos de experiência e centenas de casos resolvidos, atuamos em todo o território nacional
           e países do Mercosul. Nosso principal trabalho é esclarecer as dúvidas de nossos clientes, antes
           de tomar uma atitude perante a situação em que você está vivenciando, é importante que você tenha
@@ -43,8 +43,8 @@
             </h5>
           </div>
           <div class="borda-top-preto-separation" />
-          <a class="d-flex col-12 mt-4 px-0 py-0 text-preto-cidades fs-sm-18 fw-700 btn align-items-center" @click.prevent="Viseu">
-            <span class="text-azul fw-700 fs-20 mr-1">#</span> Viseu
+          <a class="d-flex col-12 mt-4 px-0 py-0 text-preto-cidades fs-sm-18 fw-700 btn align-items-center" @click.prevent="VianaDoCastelo">
+            <span class="text-azul fw-700 fs-20 mr-1">#</span> Viana do Castelo
           </a>
         </div>
       </div>
@@ -63,11 +63,11 @@ export default {
   },
   layout: 'LayoutSobre',
   head: {
-    title: 'Detetive particular em Viseu | Balneário Camboriú | Florianópolis | Blumenau | Criciúma | Caçador | Porto Alegre | Maringá'
+    title: 'Detetive particular em Viana do Castelo | Balneário Camboriú | Florianópolis | Blumenau | Criciúma | Caçador | Porto Alegre | Maringá'
   },
   methods: {
-    Viseu () {
-      this.$router.push('/detetive-particular-em-Viseu/detetive-particular-em-Viseu#sobre')
+    VianaDoCastelo () {
+      this.$router.push('/detetive-particular-em-Viana-do-Castelo/detetive-particular-em-Viana-do-Castelo#sobre')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,

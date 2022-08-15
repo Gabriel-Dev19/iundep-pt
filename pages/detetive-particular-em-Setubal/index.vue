@@ -3,12 +3,12 @@
     <div class="col-12 d-flex row mx-auto px-0">
       <div class="col-lg-7 px-0">
         <h2 class="text-azul fs-xs-28 fs-sm-30 fs-lg-32 text-xs-center text-sm-center text-lg-left fw-600">
-          Detetive particular em Aveiro.
+          Detetive particular em Setúbal.
           <br>
-          Precisando de um detetive particular em Aveiro?
+          Precisando de um detetive particular em Setúbal?
         </h2>
         <p class="fw-600 text-xs-center text-sm-center text-lg-left mt-20 fs-18">
-          A IUNDEP DETETIVES está em Aveiro e queremos ajudar você a solucionar suas dúvidas.
+          A IUNDEP DETETIVES está em Setúbal e queremos ajudar você a solucionar suas dúvidas.
           Com mais de 20 anos de experiência e centenas de casos resolvidos, atuamos em todo o território nacional
           e países do Mercosul. Nosso principal trabalho é esclarecer as dúvidas de nossos clientes, antes
           de tomar uma atitude perante a situação em que você está vivenciando, é importante que você tenha
@@ -39,12 +39,15 @@
         <div class="position-relative overflow-hidden col-12 d-flex row mx-auto pr-0 pt-1 pb-30 pl-45">
           <div class="d-flex div-bolinha-letra-cidade justify-content-center align-items-center">
             <h5 class="text-dark fw-700 mb-0">
-              A
+              S
             </h5>
           </div>
           <div class="borda-top-preto-separation" />
-          <a class="d-flex col-12 mt-4 px-0 py-0 text-preto-cidades fs-sm-18 fw-700 btn align-items-center" @click.prevent="Agueda">
-            <span class="text-azul fw-700 fs-20 mr-1">#</span> Agueda
+          <a class="d-flex col-12 mt-4 px-0 py-0 text-preto-cidades fs-sm-18 fw-700 btn align-items-center" @click.prevent="Seixal">
+            <span class="text-azul fw-700 fs-20 mr-1">#</span> Seixal
+          </a>
+          <a class="d-flex col-12 mt-4 px-0 py-0 text-preto-cidades fs-sm-18 fw-700 btn align-items-center" @click.prevent="Setubal">
+            <span class="text-azul fw-700 fs-20 mr-1">#</span> Setúbal
           </a>
         </div>
       </div>
@@ -63,11 +66,19 @@ export default {
   },
   layout: 'LayoutSobre',
   head: {
-    title: 'Detetive particular em Aveiro | Balneário Camboriú | Florianópolis | Blumenau | Criciúma | Caçador | Porto Alegre | Maringá'
+    title: 'Detetive particular em Setúbal | Balneário Camboriú | Florianópolis | Blumenau | Criciúma | Caçador | Porto Alegre | Maringá'
   },
   methods: {
-    Agueda () {
-      this.$router.push('/detetive-particular-em-Aveiro/detetive-particular-em-Agueda#sobre')
+    Seixal () {
+      this.$router.push('/detetive-particular-em-Setubal/detetive-particular-em-Seixal#sobre')
+      this.$smoothScroll({
+        scrollTo: document.getElementById('sobre'),
+        duration: 500,
+        offset: -70
+      })
+    },
+    Setubal () {
+      this.$router.push('/detetive-particular-em-Setubal/detetive-particular-em-Setubal#sobre')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,

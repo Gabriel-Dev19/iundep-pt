@@ -135,10 +135,10 @@
                         Santarem
                       </button>
                       <button class="btn btn-azul fw-600 fs-18 col-12 mt-2 pt-1 text-white px-20" @click.prevent="SetubalDesktop">
-                        Setubal
+                        Setúbal
                       </button>
-                      <button class="btn btn-azul fw-600 fs-18 col-12 mt-2 pt-1 text-white px-20" @click.prevent="VilaCasteloDesktop">
-                        Vila Castelo
+                      <button class="btn btn-azul fw-600 fs-18 col-12 mt-2 pt-1 text-white px-20" @click.prevent="VianaDoCasteloDesktop">
+                        Viana do Castelo
                       </button>
                       <button class="btn btn-azul fw-600 fs-18 col-12 mt-2 pt-1 text-white px-20" @click.prevent="VilaRealDesktop">
                         Vila Real
@@ -284,6 +284,9 @@
                     <button class="btn btn-link text-white col-12 px-0 text-left fs-17 pl-0 py-0 fw-600" @click.prevent="LeiriaMobile">
                       # Leiria
                     </button>
+                    <button class="btn btn-link text-white col-12 px-0 text-left fs-17 pl-0 py-0 fw-600" @click.prevent="LisboaMobile">
+                      # Lisboa
+                    </button>
                     <button class="btn btn-link text-white col-12 px-0 text-left fs-17 pl-0 py-0 fw-600" @click.prevent="PortalegreMobile">
                       # Portalegre
                     </button>
@@ -294,10 +297,10 @@
                       # Santarem
                     </button>
                     <button class="btn btn-link text-white col-12 px-0 text-left fs-17 pl-0 py-0 fw-600" @click.prevent="SetubalMobile">
-                      # Setubal
+                      # Setúbal
                     </button>
-                    <button class="btn btn-link text-white col-12 px-0 text-left fs-17 pl-0 py-0 fw-600" @click.prevent="VilaCasteloMobile">
-                      # Vila Castelo
+                    <button class="btn btn-link text-white col-12 px-0 text-left fs-17 pl-0 py-0 fw-600" @click.prevent="VianaDoCasteloMobile">
+                      # Viana do Castelo
                     </button>
                     <button class="btn btn-link text-white col-12 px-0 text-left fs-17 pl-0 py-0 fw-600" @click.prevent="VilaRealMobile">
                       # Vila Real
@@ -701,8 +704,8 @@ export default {
         this.ShowDropdownEstados = false
       }, 300)
     },
-    VilaCasteloDesktop () {
-      this.$router.push('/detetive-particular-em-Vila-Castelo#sobre')
+    VianaDoCasteloDesktop () {
+      this.$router.push('/detetive-particular-em-Viana-do-Castelo#sobre')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -861,8 +864,8 @@ export default {
       })
       this.CloseNav()
     },
-    VilaCasteloMobile () {
-      this.$router.push('/detetive-particular-em-Vila-Castelo#sobre')
+    VianaDoCasteloMobile () {
+      this.$router.push('/detetive-particular-em-Viana-do-Castelo#sobre')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
