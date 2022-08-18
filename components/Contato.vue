@@ -47,7 +47,7 @@
               </a>
             </div>
           </div>
-          <a href="mailto:contato@iundep.com.br" target="_blank" rel="nopenner noreferrer" class="no-underline text-light">
+          <a href="mailto:contacto@iundepdetectives.pt" target="_blank" rel="nopenner noreferrer" class="no-underline text-light">
             <div class="d-flex mt-30 align-items-center fs-xs-15 fs-sm-18 fw-500 justify-content-center">
               <i class="fa fa-envelope mr-2 fs-25 fw-300" /> contacto@iundepdetectives.pt
             </div>
