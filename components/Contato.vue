@@ -10,41 +10,43 @@
             Consulte um de nossos especialistas em sua região
           </h4>
           <div class="mt-30 col-xs-11 col-sm-9 mx-auto">
-            <btn-quatro-sete />
-            <btn-quatro-oito class="mt-15" />
+            <btn-telefone-contato />
+            <!-- <btn-quatro-oito class="mt-15" />
             <btn-quatro-um class="mt-15" />
-            <btn-quatro-nove class="mt-15" />
+            <btn-quatro-nove class="mt-15" /> -->
           </div>
-          <div class="d-flex justify-content-center mt-30 px-0 col-12">
-            <a href="https://www.facebook.com/Detetives-Iundep-103095312037313" target="_blank" class="no-underline" rel="noopener noreferrer">
-              <div class="bolinha-redes-sociais btn-light d-flex justify-content-center align-items-center">
-                <i class="fab fa-facebook-f text-dark fs-26" />
-              </div>
-            </a>
-            <a href="https://twitter.com/iundepdetetives" target="_blank" class="no-underline mx-15" rel="noopener noreferrer">
-              <div class="bolinha-redes-sociais btn-light d-flex justify-content-center align-items-center">
-                <i class="fab fa-twitter text-dark fs-26" />
-              </div>
-            </a>
-            <a href="https://www.youtube.com/channel/UCIRIGfLBfPF4GfcXNC9kEtQ" target="_blank" class="no-underline" rel="noopener noreferrer">
-              <div class="bolinha-redes-sociais btn-light d-flex justify-content-center align-items-center">
-                <i class="fab fa-youtube text-dark fs-26" />
-              </div>
-            </a>
-            <a href="https://br.pinterest.com/iundepdetetives/_saved/" target="_blank" class="no-underline mx-15" rel="noopener noreferrer">
-              <div class="bolinha-redes-sociais btn-light d-flex justify-content-center align-items-center">
-                <i class="fab fa-pinterest text-dark fs-26" />
-              </div>
-            </a>
-            <a href="https://www.instagram.com/iundepdetetives/" target="_blank" class="no-underline" rel="noopener noreferrer">
-              <div class="bolinha-redes-sociais btn-light d-flex justify-content-center align-items-center">
-                <i class="fab fa-instagram fw-700 text-dark fs-27" />
-              </div>
-            </a>
+          <div class="d-flex justify-content-center align-items-center mx-auto" style="width:fit-content;">
+            <div class="d-flex flex-column align-items-start justify-content-center mt-30 px-0 col-12">
+              <a href="https://www.facebook.com/Detetives-Iundep-103095312037313" target="_blank" class="no-underline d-flex align-items-center text-white fw-600 fs-18" rel="noopener noreferrer">
+                <div class="bolinha-redes-sociais btn-light d-flex justify-content-center align-items-center col-auto mr-15">
+                  <i class="fab fa-facebook-f text-dark fs-26" />
+                </div> Facebook
+              </a>
+              <a href="https://twitter.com/iundepdetetives" target="_blank" class="no-underline d-flex align-items-center text-white fw-600 fs-18" rel="noopener noreferrer">
+                <div class="bolinha-redes-sociais btn-light d-flex justify-content-center mt-15 align-items-center mr-15">
+                  <i class="fab fa-twitter text-dark fs-26" />
+                </div> Twitter
+              </a>
+              <a href="https://www.youtube.com/channel/UCIRIGfLBfPF4GfcXNC9kEtQ" target="_blank" class="no-underline d-flex align-items-center text-white fw-600 fs-18" rel="noopener noreferrer">
+                <div class="bolinha-redes-sociais btn-light d-flex justify-content-center mt-15 align-items-center mr-15">
+                  <i class="fab fa-youtube text-dark fs-26" />
+                </div> Youtube
+              </a>
+              <a href="https://br.pinterest.com/iundepdetetives/_saved/" target="_blank" class="no-underline d-flex align-items-center text-white fw-600 fs-18" rel="noopener noreferrer">
+                <div class="bolinha-redes-sociais btn-light d-flex justify-content-center mt-15 align-items-center mr-15">
+                  <i class="fab fa-pinterest text-dark fs-26" />
+                </div> Pinterest
+              </a>
+              <a href="https://www.instagram.com/iundepdetetives/" target="_blank" class="no-underline d-flex align-items-center text-white fw-600 fs-18" rel="noopener noreferrer">
+                <div class="bolinha-redes-sociais btn-light d-flex justify-content-center mt-15 align-items-center mr-15">
+                  <i class="fab fa-instagram fw-700 text-dark fs-27" />
+                </div> Instagram
+              </a>
+            </div>
           </div>
           <a href="mailto:contato@iundep.com.br" target="_blank" rel="nopenner noreferrer" class="no-underline text-light">
             <div class="d-flex mt-30 align-items-center fs-xs-15 fs-sm-18 fw-500 justify-content-center">
-              <i class="fa fa-envelope mr-2 fs-25 fw-300" /> contato@iundep.com.br
+              <i class="fa fa-envelope mr-2 fs-25 fw-300" /> contacto@iundepdetectives.pt
             </div>
           </a>
         </div>
@@ -188,13 +190,10 @@ import Vue from '../node_modules/vue'
 import axios from '../node_modules/axios'
 import { required, minLength, email } from '../node_modules/vuelidate/lib/validators'
 import { VueMaskDirective } from '../node_modules/v-mask'
-import BtnQuatroNove from './buttons/BtnQuatroNove.vue'
-import BtnQuatroOito from './buttons/BtnQuatroOito.vue'
-import BtnQuatroSete from './buttons/BtnQuatroSete.vue'
-import BtnQuatroUm from './buttons/BtnQuatroUm.vue'
+import BtnTelefoneContato from './buttons/BtnTelefoneContato.vue'
 Vue.directive('mask', VueMaskDirective)
 export default {
-  components: { BtnQuatroSete, BtnQuatroOito, BtnQuatroUm, BtnQuatroNove },
+  components: { BtnTelefoneContato },
   data () {
     return {
       class_disabled_select: false,

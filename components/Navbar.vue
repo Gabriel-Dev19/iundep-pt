@@ -358,12 +358,9 @@
   </div>
 </template>
 <script>
-import BtnQuatroNove from './buttons/BtnQuatroNove.vue'
-import BtnQuatroOito from './buttons/BtnQuatroOito.vue'
-import BtnQuatroSete from './buttons/BtnQuatroSete.vue'
-import BtnQuatroUm from './buttons/BtnQuatroUm.vue'
+import BtnTelefoneContato from './buttons/BtnTelefoneContato.vue'
 export default {
-  components: { BtnQuatroSete, BtnQuatroOito, BtnQuatroUm, BtnQuatroNove },
+  components: { BtnTelefoneContato },
   data () {
     return {
       ShowDropdownServicos: false,
