@@ -9,7 +9,10 @@
           <h4 class="text-center col-10 bb-white pb-3 mx-auto text-white fw-600">
             Consulte um de nossos especialistas em sua região
           </h4>
-          <div class="mt-30 col-xs-11 col-sm-9 mx-auto">
+          <h4 class="text-center col-10 pb-2 mb-0 mt-30 mx-auto text-white fw-600">
+            Contacto
+          </h4>
+          <div class="col-xs-11 col-sm-9 mx-auto">
             <btn-telefone-contato />
             <!-- <btn-quatro-oito class="mt-15" />
             <btn-quatro-um class="mt-15" />
@@ -22,23 +25,23 @@
                   <i class="fab fa-facebook-f text-dark fs-26" />
                 </div> Facebook
               </a>
-              <a href="https://twitter.com/iundepdetetives" target="_blank" class="no-underline d-flex align-items-center text-white fw-600 fs-18" rel="noopener noreferrer">
-                <div class="bolinha-redes-sociais btn-light d-flex justify-content-center mt-15 align-items-center mr-15">
+              <a href="https://twitter.com/iundepdetetives" target="_blank" class="no-underline d-flex mt-15 align-items-center text-white fw-600 fs-18" rel="noopener noreferrer">
+                <div class="bolinha-redes-sociais btn-light d-flex justify-content-center align-items-center mr-15">
                   <i class="fab fa-twitter text-dark fs-26" />
                 </div> Twitter
               </a>
-              <a href="https://www.youtube.com/channel/UCIRIGfLBfPF4GfcXNC9kEtQ" target="_blank" class="no-underline d-flex align-items-center text-white fw-600 fs-18" rel="noopener noreferrer">
-                <div class="bolinha-redes-sociais btn-light d-flex justify-content-center mt-15 align-items-center mr-15">
+              <a href="https://www.youtube.com/channel/UCIRIGfLBfPF4GfcXNC9kEtQ" target="_blank" class="no-underline d-flex mt-15 align-items-center text-white fw-600 fs-18" rel="noopener noreferrer">
+                <div class="bolinha-redes-sociais btn-light d-flex justify-content-center align-items-center mr-15">
                   <i class="fab fa-youtube text-dark fs-26" />
                 </div> Youtube
               </a>
-              <a href="https://br.pinterest.com/iundepdetetives/_saved/" target="_blank" class="no-underline d-flex align-items-center text-white fw-600 fs-18" rel="noopener noreferrer">
-                <div class="bolinha-redes-sociais btn-light d-flex justify-content-center mt-15 align-items-center mr-15">
+              <a href="https://br.pinterest.com/iundepdetetives/_saved/" target="_blank" class="no-underline d-flex mt-15 align-items-center text-white fw-600 fs-18" rel="noopener noreferrer">
+                <div class="bolinha-redes-sociais btn-light d-flex justify-content-center align-items-center mr-15">
                   <i class="fab fa-pinterest text-dark fs-26" />
                 </div> Pinterest
               </a>
-              <a href="https://www.instagram.com/iundepdetetives/" target="_blank" class="no-underline d-flex align-items-center text-white fw-600 fs-18" rel="noopener noreferrer">
-                <div class="bolinha-redes-sociais btn-light d-flex justify-content-center mt-15 align-items-center mr-15">
+              <a href="https://www.instagram.com/iundepdetetives/" target="_blank" class="no-underline d-flex mt-15 align-items-center text-white fw-600 fs-18" rel="noopener noreferrer">
+                <div class="bolinha-redes-sociais btn-light d-flex justify-content-center align-items-center mr-15">
                   <i class="fab fa-instagram fw-700 text-dark fs-27" />
                 </div> Instagram
               </a>

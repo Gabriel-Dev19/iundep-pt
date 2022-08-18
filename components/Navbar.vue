@@ -358,9 +358,7 @@
   </div>
 </template>
 <script>
-import BtnTelefoneContato from './buttons/BtnTelefoneContato.vue'
 export default {
-  components: { BtnTelefoneContato },
   data () {
     return {
       ShowDropdownServicos: false,
