@@ -54,7 +54,7 @@
       <p class="fw-600 text-xs-center text-sm-center text-lg-left mt-10 fs-17">
         Inicialmente é feito uma reunião com as partes interessadas afim de coletar
         todas as informações necessárias para dar início a Investigação Empresarial.
-        Após a definição dos procedimentos a serem realizados pelo detetive particular.
+        Após a definição dos procedimentos a serem realizados pelo detective privado.
       </p>
       <p class="fw-800 text-xs-center text-sm-center text-lg-left mt-10 mb-2 fs-19">
         O plano estabelecido terá os seguintes passos:
@@ -122,18 +122,18 @@
         <i class="fa fa-circle fs-14 text-azul" /> Relacionamento excepcionalmente próximo com um fornecedor ou cliente;
       </p>
       <p class="fw-700 text-xs-center text-sm-center flex-fill align-items-center text-lg-left mb-1 fs-17">
-        <i class="fa fa-circle fs-14 text-azul" /> Problemas de controle excessivo ou falta de vontade de compartilhar tarefas;
+        <i class="fa fa-circle fs-14 text-azul" /> Problemas de controlo excessivo ou falta de vontade de compartilhar tarefas;
       </p>
       <p class="fw-700 text-xs-center text-sm-center flex-fill align-items-center text-lg-left mb-1 fs-17">
         <i class="fa fa-circle fs-14 text-azul" /> Irritabilidade incomum, desconfiança ou atitude defensiva;
       </p>
       <p class="fw-600 text-xs-center text-sm-center text-lg-left mt-15 fs-17">
-        Com o objetivo de auxiliar os gestores, a Investigação Empresarial da IUNDEP Detetives
-        possui uma equipe de detetives particulares especialistas em monitoramentos discreto
+        Com o objetivo de auxiliar os gestores, a Investigação Empresarial da IUNDEP Detectives
+        possui uma equipa de detectives privados especialistas em monitoramentos discreto
         e parcerias com escritórios de advocacia especializados em processos empresariais.
       </p>
       <p class="fw-600 text-xs-center text-sm-center text-lg-left fs-17">
-        <a v-smooth-scroll="{duration: 500, offset: -70}" href="#contato" class="fw-600 p-0 btn-link">Entre em contato</a> agora e vamos lhe orientar. Consulta sem compromisso.
+        <a v-smooth-scroll="{duration: 500, offset: -70}" href="#contato" class="fw-600 p-0 btn-link">Entre em contacto</a> agora e vamos lhe orientar. Consulta sem compromisso.
       </p>
     </div>
 

@@ -2,19 +2,19 @@
   <div>
     <div class="col-12 px-0">
       <h1 class="text-azul fs-xs-36 text-center fw-600">
-        Venha fazer parte da nossa equipe!
+        Venha fazer parte da nossa equipa!
       </h1>
     </div>
     <div class="mt-30 border-none">
       <p class="fw-600 text-center mt-10 fs-17">
-        Se você tem interesse em ingressar na carreira de detetive particular, não perca mais tempo! Faça nosso
+        Se você tem interesse em ingressar na carreira de detective privado, não perca mais tempo! Faça nosso
         curso de profissionalização e além de todo conhecimento que iremos lhe passar, ainda daremos a você a
-        oportunidade de fazer parte da nossa equipe.
+        oportunidade de fazer parte da nossa equipa.
         Para saber mais clique no botão abaixo:
       </p>
       <div class="d-flex justify-content-center mt-20 mb-30">
         <button class="btn btn-azul px-20 text-white" @click.prevent="$root.$emit('ShowCursoDesktop')">
-          Curso de detetive particular
+          Curso de detective privado
         </button>
       </div>
       <p class="fw-600 text-center fs-17">
@@ -27,7 +27,7 @@
         Ser idôneo;
       </p>
       <p class="fw-600 text-center fs-17">
-        Ser habilitado carro/moto em boas condições de uso;
+        Ser habilitado viatura/moto em boas condições de uso;
       </p>
       <p class="fw-600 text-center fs-17">
         Raciocínio lógico;
@@ -66,26 +66,26 @@
         Excelente remuneração;
       </p>
       <p class="fw-600 text-center fs-17">
-        Recompensa. O Detetive auxilia pessoas físicas e jurídicas na resolução de seus problemas;
+        Recompensa. O Detective auxilia pessoas físicas e jurídicas na resolução de seus problemas;
       </p>
       <p class="fw-600 text-center fs-17">
         Realização pelo cumprimento do dever;
       </p>
       <p class="fw-600 text-center fs-17">
-        Um Detetive Particular bem-sucedido destaca-se no meio;
+        Um Detective Privado bem-sucedido destaca-se no meio;
       </p>
       <p class="fw-600 text-center fs-17">
-        Um Detetive favorece a história de muitas pessoas;
+        Um Detective favorece a história de muitas pessoas;
       </p>
       <p class="fw-600 text-center fs-17">
         Propicia na contribuição da resolução dos dramas pessoais.
       </p>
       <h2 class="text-azul fs-xs-25 mt-50 text-center fw-600">
-        Por quê a IUNDEP Detetives?
+        Por quê a IUNDEP Detectives?
       </h2>
       <p class="fw-600 text-center mt-10 fs-17">
         Temos uma vasta experiência profissional com mais de 20 anos de mercado, atuando com
-        sucesso em todas as tarefas que recebemos. Nossos detetives são totalmente qualificados para exercer as
+        sucesso em todas as tarefas que recebemos. Nossos detectives são totalmente qualificados para exercer as
         funções delegadas aos mesmos. Temos profissionais atuando em 8 dos principais Estados brasileiros.
       </p>
     </div>

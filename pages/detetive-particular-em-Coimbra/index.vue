@@ -3,12 +3,12 @@
     <div class="col-12 d-flex row mx-auto px-0">
       <div class="col-lg-7 px-0">
         <h2 class="text-azul fs-xs-28 fs-sm-30 fs-lg-32 text-xs-center text-sm-center text-lg-left fw-600">
-          Detetive particular em Coimbra.
+          Detective privado em Coimbra.
           <br>
-          Precisando de um detetive particular em Coimbra?
+          Precisando de um detective privado em Coimbra?
         </h2>
         <p class="fw-600 text-xs-center text-sm-center text-lg-left mt-20 fs-18">
-          A IUNDEP DETETIVES está em Coimbra e queremos ajudar você a solucionar suas dúvidas.
+          A IUNDEP DETECTIVES está em Coimbra e queremos ajudar você a solucionar suas dúvidas.
           Com mais de 20 anos de experiência e centenas de casos resolvidos, atuamos em todo o território nacional
           e países do Mercosul. Nosso principal trabalho é esclarecer as dúvidas de nossos clientes, antes
           de tomar uma atitude perante a situação em que você está vivenciando, é importante que você tenha
@@ -17,7 +17,7 @@
         <p class="fw-600 text-xs-center text-sm-center text-lg-left mt-20 fs-18">
           Nossa agência é especializada em investigações de caráter conjugal, industrial, empresarial,
           comercial, familiar, política e assuntos privados. Seja qual for o seu problema e complexidade
-          do caso que você vem enfrentando, a IUNDEP DETETIVES terá a satisfação em ajuda-lo a desvendar.
+          do caso que você vem enfrentando, a IUNDEP DETECTIVES terá a satisfação em ajuda-lo a desvendar.
         </p>
         <div class="d-flex justify-content-xs-center justify-content-sm-center justify-content-lg-start">
           <BtnAzulWhatsapp class="mt-2" />
@@ -31,7 +31,7 @@
       </div>
     </div>
     <h2 class="text-azul fs-xs-36 fs-sm-40 fs-lg-32 mt-xs-70 mt-sm-70 mt-lg-100 text-center col-12 px-0 fw-600">
-      Encontre um detetive particular na sua cidade
+      Encontre um detective privado na sua cidade
     </h2>
     <section class="col-12 px-0">
       <div class="container px-xs-0">
@@ -79,7 +79,7 @@ export default {
   },
   layout: 'LayoutSobre',
   head: {
-    title: 'Detetive particular em Coimbra | Balneário Camboriú | Florianópolis | Blumenau | Criciúma | Caçador | Porto Alegre | Maringá'
+    title: 'Detective privado em Coimbra | Porto | Évora  | Braga | Faro | Coimbra | Aveiro '
   },
   methods: {
     Coimbra () {

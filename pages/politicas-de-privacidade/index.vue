@@ -7,8 +7,8 @@
     </div>
     <div class="mt-30 border-none">
       <p class="fw-600 text-center mt-10 fs-17">
-        A sua privacidade é importante para nós. É política do IUNDEP Agência de Detetives respeitar a sua
-        privacidade em relação a qualquer informação sua que possamos coletar no site IUNDEP Agência de Detetives,
+        A sua privacidade é importante para nós. É política do IUNDEP Agência de Detectives respeitar a sua
+        privacidade em relação a qualquer informação sua que possamos coletar no site IUNDEP Agência de Detectives,
         e outros sites que possuímos e operamos.
       </p>
       <p class="fw-600 text-center fs-17">
@@ -27,7 +27,7 @@
       </p>
       <p class="fw-600 text-center fs-17">
         O nosso site pode ter links para sites externos que não são operados por nós. Esteja ciente de que não
-        temos controle sobre o conteúdo e práticas desses sites e não podemos aceitar responsabilidade por suas
+        temos controlo sobre o conteúdo e práticas desses sites e não podemos aceitar responsabilidade por suas
         respectivas políticas de privacidade.
       </p>
       <p class="fw-600 text-center fs-17">
@@ -89,7 +89,7 @@
       </h2>
       <p class="fw-600 text-center mt-20 fs-17">
         O usuário se compromete a fazer uso adequado dos conteúdos e da informação que o IUNDEP Agência de
-        Detetives oferece no site e com caráter enunciativo, mas não limitativo:
+        Detectives oferece no site e com caráter enunciativo, mas não limitativo:
       </p>
       <p class="fw-600 text-center fs-17">
         <b>A)</b> Não se envolver em atividades que sejam ilegais ou contrárias à boa fé a à ordem pública;
@@ -100,7 +100,7 @@
         os direitos humanos;
       </p>
       <p class="fw-600 text-center fs-17">
-        <b>C)</b> Não causar danos aos sistemas físicos (hardwares) e lógicos (softwares) do IUNDEP Agência de Detetives,
+        <b>C)</b> Não causar danos aos sistemas físicos (hardwares) e lógicos (softwares) do IUNDEP Agência de Detectives,
         de seus fornecedores ou terceiros, para introduzir ou disseminar vírus informáticos ou quaisquer outros sistemas
         de hardware ou software que sejam capazes de causar danos anteriormente mencionados.
       </p>

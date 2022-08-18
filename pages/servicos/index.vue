@@ -86,8 +86,8 @@
         </h3>
         <p class="fs-xs-16 fs-sm-17 text-lg-right mt-15 fw-600">
           Procurando algum parente? Sua empresa possui devedores que já não consegue mais localizá-los?
-          A investigação de localização de pessoas é muito complexa, por isso nós da IUNDEP Detetives contamos com
-          uma equipe experiente, capacitada e com técnicas investigativas que fornecem a nós informações atuais
+          A investigação de localização de pessoas é muito complexa, por isso nós da IUNDEP Detectives contamos com
+          uma equipa experiente, capacitada e com técnicas investigativas que fornecem a nós informações atuais
           sobre o alvo.
         </p>
         <div class="d-flex justify-content-lg-end">
@@ -106,18 +106,18 @@
     <div class="d-flex px-0 justify-content-lg-center row mx-auto">
       <div class="col-xs-11 col-sm-11 col-lg px-0 mb-40 mt-30">
         <h3 class="text-azul pr-xs-4 pr-sm-4 pr-lg-0 fw-600">
-          Espião de celular para filhos
+          Espião de telemóvel para filhos
         </h3>
         <p class="fs-xs-16 fs-sm-17 mt-15 fw-600">
           Você precisa ter acesso ao que seu filho está fazendo na rua ou mesmo nas horas vagas em casa
           enquanto está trancado em seu quarto em frente ao computador ou telefone? Nosso Software espião
-          de celular monitora todas essas atividades. Você tem acesso do seu celular ou computador do filho
+          de telemóvel monitora todas essas atividades. Você tem acesso do seu telemóvel ou computador do filho
           para saber todas as conversas de WhatsApp, Instagram, E-mail, Skype, Localização do aparelho,
           acesso a câmera e muito mais.
         </p>
         <div class="d-flex justify-content-start">
           <button class="px-20 btn mt-1 btn-azul text-white pt-1 fs-17 fw-600" @click.prevent="$root.$emit('ShowSoftwareEspiaoDesktop')">
-            Espião de celular para filhos
+            Espião de telemóvel para filhos
           </button>
         </div>
       </div>
@@ -129,16 +129,16 @@
       </div>
       <div class="col-xs-11 col-sm-11 col-lg col-lg mb-xs-40 mb-sm-40 mb-lg-0 px-0 mt-30">
         <h3 class="text-azul pr-xs-4 pr-sm-4 text-lg-right pr-lg-0 fw-600">
-          Curso de detetive particular
+          Curso de detective privado
         </h3>
         <p class="fs-xs-16 fs-sm-17 mt-15 text-lg-right fw-600">
-          Venha se especializar com quem é líder no ramo de Investigação Particular. Realizando nosso Curso de Detetive
-          Particular, você estará recebendo online um material de qualidade para estudar em suas horas vagas, sem sair de
+          Venha se especializar com quem é líder no ramo de Investigação Privada. Realizando nosso Curso de Detective
+          Privado, você estará recebendo online um material de qualidade para estudar em suas horas vagas, sem sair de
           casa.
         </p>
         <div class="d-flex justify-content-lg-end">
           <button class="px-20 btn mt-1 btn-azul text-white pt-1 fs-17 fw-600" @click.prevent="$root.$emit('ShowCursoDesktop')">
-            Curso de detetive particular
+            Curso de detective privado
           </button>
         </div>
       </div>
@@ -174,11 +174,11 @@
       </div>
       <div class="col-xs-11 col-sm-11 col-lg px-0 mt-30">
         <h3 class="text-azul pr-xs-4 pr-sm-4 pr-lg-0 text-lg-right fw-600">
-          Entre em contato conoso!
+          Entre em contacto conoso!
         </h3>
         <p class="fs-xs-16 fs-sm-17 mt-15 text-lg-right fw-600">
           Seja qual for o tipo de investigação que você necessita, clique no botão abaixo
-          e entre em contato com nossa equipe de detetives agora mesmo. A IUNDEP Detetives
+          e entre em contacto com nossa equipa de detectives agora mesmo. A IUNDEP Detectives
           está disposta a estudar se caso e traçar a melhor estratégia para que você possa ter
           os melhores resultados em sua investigação.
         </p>

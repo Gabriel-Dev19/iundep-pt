@@ -14,8 +14,8 @@
             </h4>
             <div class="col-10 mx-xs-auto mx-sm-auto mx-lg-0 bg-azul-claro h-3" />
             <p class="mx-3 text-white text-xs-center text-sm-center text-lg-left fs-16 fw-500 mt-1 mb-0">
-              A investigação de localização de pessoas é muito complexa, por isso nós da IUNDEP Detetives contamos
-              com uma equipe experiente, capacitada e com técnicas investigativas que fornecem a nós informações
+              A investigação de localização de pessoas é muito complexa, por isso nós da IUNDEP Detectives contamos
+              com uma equipa experiente, capacitada e com técnicas investigativas que fornecem a nós informações
               atuais sobre o alvo.
             </p>
             <div class="d-flex justify-content-xs-center justify-content-sm-center justify-content-lg-start">
@@ -32,7 +32,7 @@
       </h3>
       <p class="fw-600 text-xs-center text-sm-center text-lg-left mt-10 fs-17">
         Procurando algum parente? Sua empresa possui devedores que já não consegue
-        mais localiza-os? Conheça os serviços que nós da IUNDEP Detetives podemos
+        mais localiza-os? Conheça os serviços que nós da IUNDEP Detectives podemos
         lhe oferecer a fim de beneficiá-lo na ajuda da localização da pessoa que
         você está procurando.
       </p>
@@ -53,7 +53,7 @@
         com a necessidade do cliente.
       </p>
       <p class="fw-600 text-xs-center text-sm-center text-lg-left mt-10 fs-17">
-        Não perca mais tempo, <a v-smooth-scroll="{duration: 500, offset: -70}" href="#contato" class="fw-600 p-0 btn-link">entre em contato agora</a> mesmo e consulte-nos sobre
+        Não perca mais tempo, <a v-smooth-scroll="{duration: 500, offset: -70}" href="#contato" class="fw-600 p-0 btn-link">entre em contacto agora</a> mesmo e consulte-nos sobre
         nossos serviços. Consulta sem compromisso.
       </p>
       <h3 class="text-azul mt-30 fw-600 text-xs-center text-sm-center text-lg-left">
@@ -66,11 +66,11 @@
       </p>
       <p class="fw-600 text-xs-center text-sm-center text-lg-left mt-10 fs-17">
         Para iniciarmos a investigação é necessários termos em mãos dados básicos, como:
-        fotos, nome completo, última localização que o investigado foi visto e contatos
+        fotos, nome completo, última localização que o investigado foi visto e contactos
         de telefone pessoal ou de amigos próximos.
       </p>
       <h3 class="text-azul mt-30 fw-600 text-xs-center text-sm-center text-lg-left">
-        A Localização de pessoas na IUNDEP Detetives
+        A Localização de pessoas na IUNDEP Detectives
       </h3>
       <p class="fw-600 text-xs-center text-sm-center text-lg-left mt-10 fs-17">
         Nossos profissionais possuem experiência em investigações estratégicas,
@@ -78,7 +78,7 @@
       </p>
       <p class="fw-600 text-xs-center text-sm-center text-lg-left mt-10 fs-17">
         Não perca mais tempo, as primeiras 48 horas são muito importantes
-        para se obter sucesso. <a v-smooth-scroll="{duration: 500, offset: -70}" href="#contato" class="fw-600 p-0 btn-link">Entre em contato agora</a> mesmo e consulte-nos
+        para se obter sucesso. <a v-smooth-scroll="{duration: 500, offset: -70}" href="#contato" class="fw-600 p-0 btn-link">Entre em contacto agora</a> mesmo e consulte-nos
         sobre nossos serviços. Consulta sem compromisso.
       </p>
     </div>

@@ -37,7 +37,7 @@ $message = 'Olá,<br/><br/> Você recebeu uma mensagem do site IUNDEP DETETIVES.
 . '<b>Horário para retorno:</b>  ' . $horario . '<br/>';
 
 mail($toEmail, $subject, $message, $headers);
-$showMessage = "Mensagem enviada com sucesso em breve entraremos em contato";
+$showMessage = "Mensagem enviada com sucesso em breve entraremos em contacto";
 
 $jsonData = array(
 	"message"	=> $showMessage

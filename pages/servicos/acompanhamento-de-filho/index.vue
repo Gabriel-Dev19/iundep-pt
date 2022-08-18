@@ -38,10 +38,10 @@
         com más companhias que acabam influenciando eles a uma vida perigosa, entre outras situações.
       </p>
       <p class="fw-600 text-xs-center text-sm-center text-lg-left mt-10 fs-17">
-        Nós da IUNDEP Detetives sabemos que a grande maioria dos pais atualmente conta
+        Nós da IUNDEP Detectives sabemos que a grande maioria dos pais atualmente conta
         com uma rotina diária muito agitada, e por isso precisam recorrer a nossa ajuda
         para que possamos acompanhar de perto seus filhos e lhes informar o que de fato
-        está acontecendo quando eles não estão por perto Ao contratar um detetive particular
+        está acontecendo quando eles não estão por perto Ao contratar um detective privado
         para iniciar a investigação de seus filhos, você estará demonstrando o seu amor e
         preocupação. Com as informações necessárias em mãos você vai estar preparado para
         orientar sobre problemas relacionados à infância e adolescência, como bullying, mudanças
@@ -57,7 +57,7 @@
         Quando iniciar uma investigação de filhos?
       </h3>
       <p class="fw-600 text-xs-center text-sm-center text-lg-left mt-10 fs-17">
-        A investigação de filhos deve ser iniciada antes que o contato com pessoas ou atividades
+        A investigação de filhos deve ser iniciada antes que o contacto com pessoas ou atividades
         suspeitas prejudiquem seus sonhos e felicidade. O acesso a má influência está cada vez mais
         fácil e frequente, por isso, os pais precisam acompanhar todas as mídias que os filhos têm
         acesso. Os exemplos são: redes sociais, sites da internet e seriados ou filmes divulgados
@@ -75,7 +75,7 @@
         sinais a serem observados são:
       </p>
       <p class="fw-600 text-xs-center text-sm-center text-lg-left mt-10 fs-17">
-        1° Desvio de olhar: ao perceber que os filhos estão evitando o contato visual com os pais,
+        1° Desvio de olhar: ao perceber que os filhos estão evitando o contacto visual com os pais,
         significa que eles estão escondendo informações. A fixação excessiva e o desvio de olhar
         durante um diálogo são ações que caracterizam mentira e a ocultação de informações.
       </p>
@@ -95,8 +95,8 @@
       </p>
       <p class="fw-600 text-xs-center text-sm-center text-lg-left mt-10 fs-17">
         Cuide do seu maior patrimônio, não deixe que nada de ruim possa atrapalhar seu futuro.
-        Nós d IUNDEP Detetives estamos prontos para lhe ajudar.
-        <a v-smooth-scroll="{duration: 500, offset: -70}" href="#contato" class="fw-600 p-0 btn-link">Entre em contato conosco hoje mesmo!</a>
+        Nós d IUNDEP Detectives estamos prontos para lhe ajudar.
+        <a v-smooth-scroll="{duration: 500, offset: -70}" href="#contato" class="fw-600 p-0 btn-link">Entre em contacto conosco hoje mesmo!</a>
       </p>
     </div>
     <div id="buttonVoltar">

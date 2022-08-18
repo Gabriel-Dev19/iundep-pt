@@ -14,8 +14,8 @@
             </h4>
             <div class="col-10 mx-xs-auto mx-sm-auto mx-lg-0 bg-azul-claro h-3" />
             <p class="mx-3 text-white text-xs-center text-sm-center text-lg-left fs-16 fw-500 mt-1 mb-0">
-              A IUNDEP Detetives poderá trabalhar junto aos grupos políticos para descobrir todos os atos
-              ilícitos dos opositores, durante ou após a campanha. Contamos com uma equipe especializada
+              A IUNDEP Detectives poderá trabalhar junto aos grupos políticos para descobrir todos os atos
+              ilícitos dos opositores, durante ou após a campanha. Contamos com uma equipa especializada
               em investigações políticas e de políticos, com tecnologia de ponta
               e processo diferenciado para cada caso.
             </p>
@@ -42,9 +42,9 @@
         envolvendo nossos governantes?
       </p>
       <p class="fw-600 text-xs-center text-sm-center text-lg-left fs-17">
-        A IUNDEP Detetives poderá trabalhar junto aos grupos políticos para descobrir
+        A IUNDEP Detectives poderá trabalhar junto aos grupos políticos para descobrir
         todos os atos ilícitos dos opositores, durante ou após a campanha. Contamos
-        com uma equipe especializada em investigações políticas e de políticos,
+        com uma equipa especializada em investigações políticas e de políticos,
         com tecnologia de ponta e processo diferenciado para cada caso.
       </p>
       <p class="fw-600 text-xs-center text-sm-center text-lg-left fs-17">
@@ -53,27 +53,27 @@
         entre outras práticas.
       </p>
       <p class="fw-600 text-xs-center text-sm-center text-lg-left fs-17">
-        Nossa equipe de profissionais está apta a resolver desde os simples até os mais
+        Nossa equipa de profissionais está apta a resolver desde os simples até os mais
         complexos casos de investigação pública e política. Nossos agentes recebem treinamentos
         especializados para sempre estarem bem informados, e assim poderem chegar ao melhor
         resultado final desejado pelo cliente, com fatos e dados evidenciados.
       </p>
       <p class="fw-600 text-xs-center text-sm-center text-lg-left fs-17">
-        Além dos investigadores do Estado, os detetives particulares também podem desempenhar
+        Além dos investigadores do Distrito, os detectives privados também podem desempenhar
         esse papel investigativo, ajudando o interessado a descobrir mais sobre seu candidato,
-        estando ele eleito, reeleito ou ainda em fase eleitoral. O detetive precisa agir totalmente
+        estando ele eleito, reeleito ou ainda em fase eleitoral. O detective precisa agir totalmente
         dentro da lei e com recursos autorizados e legais, além de manter total sigilo
         ao longo da investigação.
       </p>
       <p class="fw-600 text-xs-center text-sm-center text-lg-left fs-17">
-        Esses são alguns dos motivos nos quais levam o próprio estado ou algum representante
+        Esses são alguns dos motivos nos quais levam o próprio distrito ou algum representante
         de comunidade, assembleia ou organização a solicitar uma investigação política. A IUNDEP
-        Detetives disponibiliza as melhores e mais modernas técnicas investigativas, no intuito
+        Detectives disponibiliza as melhores e mais modernas técnicas investigativas, no intuito
         de verificar se há compra de votos ou qualquer outro crime eleitoral.
       </p>
       <p class="fw-600 text-xs-center text-sm-center text-lg-left fs-17">
-        Se você é um político, também pode contratar os serviços de um detetive particular
-        para investigar seu oponente e saber tudo sobre ele e sua equipe. Desta forma você
+        Se você é um político, também pode contratar os serviços de um detective privado
+        para investigar seu oponente e saber tudo sobre ele e sua equipa. Desta forma você
         vai estar preparado para atacar e/ou se defender de forma mais eficiente.
       </p>
       <p class="fw-600 text-xs-center text-sm-center text-lg-left fs-17">
@@ -90,12 +90,12 @@
         projetamos nossa pesquisa para buscar as informações ocultas mais impactantes
       </p>
       <h3 class="text-azul mt-30 fw-600 text-xs-center text-sm-center text-lg-left">
-        Detetive especialista na arte de investigar político
+        Detective especialista na arte de investigar político
       </h3>
       <p class="fw-600 text-xs-center text-sm-center text-lg-left mt-10 fs-17">
         É importante salientar que, quanto mais informações o contratante tiver sobre o seu oponente,
-        mais rapidamente o detetive particular irá conseguir as respostas que você precisa. As informações
-        iniciais sem sombra de dúvidas são a chave para que o detetive planeje ataque e defesa eficientes.
+        mais rapidamente o detective privado irá conseguir as respostas que você precisa. As informações
+        iniciais sem sombra de dúvidas são a chave para que o detective planeje ataque e defesa eficientes.
         A investigação política é também como uma verificação de antecedentes, e com certeza o objetivo
         dessa investigação é encontrar qualquer obscuridade em relação ao investigado.
       </p>
@@ -104,12 +104,12 @@
         e assim, poderem chegar ao melhor resultado final desejado pelo cliente com fatos e dados evidenciados.
       </p>
       <p class="fw-600 text-xs-center text-sm-center text-lg-left fs-17">
-        Nossa equipe de detetives irá analisar cada caso em particular para poder alcançar o melhor
+        Nossa equipa de detectives irá analisar cada caso em particular para poder alcançar o melhor
         resultado. Contando sempre com as melhores técnicas de espionagens e contraespionagem para
         assim obter resultado preciso na ação.
       </p>
       <p class="fw-600 text-xs-center text-sm-center text-lg-left fs-17">
-        Na política tudo pode ser descoberto! Não espere mais, entre em contato conosco agora mesmo!
+        Na política tudo pode ser descoberto! Não espere mais, entre em contacto conosco agora mesmo!
       </p>
     </div>
     <div id="buttonVoltar">

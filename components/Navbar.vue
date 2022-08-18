@@ -42,10 +42,10 @@
                             Outros serviços
                           </h6>
                           <button class="btn btn-azul fw-600 fs-17 mt-2 pt-1 text-white px-20" @click.prevent="SoftwareEspiaoDesktopNavbar">
-                            Programa de celular VIP
+                            Programa de telemóvel VIP
                           </button>
                           <button class="btn btn-azul fw-600 fs-17 mt-2 pt-1 text-white px-20" @click.prevent="CursoDesktopNavbar">
-                            Curso de detetive particular
+                            Curso de detective privado
                           </button>
                           <button class="btn btn-azul fw-600 fs-17 mt-2 pt-1 text-white px-20" @click.prevent="AcompanhamentoDesktopNavbar">
                             Acompanhamento de filhos
@@ -66,7 +66,7 @@
                           Quando contratar uma investigação conjugal?
                         </button>
                         <button class="btn btn-azul fw-600 fs-17 mt-2 pt-1 text-white px-20" @click.prevent="InstalarSoftware">
-                          Instalação do Programa de celular
+                          Instalação do Programa de telemóvel
                         </button>
                         <button class="btn btn-azul fw-600 fs-17 mt-2 pt-1 text-white px-20" @click.prevent="FilhosConduta">
                           Filhos rebeldes
@@ -85,7 +85,7 @@
             </div>
             <div class="position-relative d-xs-none d-sm-none d-lg-block">
               <button class="btn ml-20 d-flex px-20 align-items-center fs-18 pt-1 fw-600" :class="{'btn-outline-light': !ShowDropdownEstados, 'btn-light': ShowDropdownEstados}" @click.prevent="ToggleDropdownEstados">
-                <i class="fa fa-map-marker-alt fw-300 mr-2" /> Estados atendidos <i class="fa ml-2 mt-1" :class="{'fa-angle-down': !ShowDropdownEstados, 'fa-times fs-15': ShowDropdownEstados}" />
+                <i class="fa fa-map-marker-alt fw-300 mr-2" /> Distritos atendidos <i class="fa ml-2 mt-1" :class="{'fa-angle-down': !ShowDropdownEstados, 'fa-times fs-15': ShowDropdownEstados}" />
               </button>
               <transition enter-active-class="animate-show-dropdown" leave-active-class="animate-hide-dropdown">
                 <div v-show="ShowDropdownEstados" class="dropdown-estados shadow">
@@ -216,10 +216,10 @@
                     <i class="fa fa-arrow-left fs-15 mr-2" /> Sobre nós
                   </button>
                   <button class="btn btn-outline-light d-xs-flex d-sm-flex d-lg-none mt-10 fs-17 px-20 align-items-center pt-1 fw-600" @click.prevent="ScrollContatoMobile">
-                    <i class="fa fa-arrow-left fs-15 mr-2" /> Contato
+                    <i class="fa fa-arrow-left fs-15 mr-2" /> Contacto
                   </button>
                   <button class="btn btn-outline-light d-xs-none d-sm-none d-lg-flex mt-10 fs-17 px-20 align-items-center pt-1 fw-600" @click.prevent="ScrollContatoDesktop">
-                    <i class="fa fa-arrow-left fs-15 mr-2" /> Contato
+                    <i class="fa fa-arrow-left fs-15 mr-2" /> Contacto
                   </button>
                   <div class="border-radius-20 borda-branca pt-15 pb-15 mt-10 col-11 px-20">
                     <h5 class="text-white bb-white fw-600 mb-0 pb-10 fs-17">
@@ -238,10 +238,10 @@
                       # Localização de pessoas
                     </button>
                     <button class="btn text-left btn-link text-white fs-17 pl-0 py-0 fw-600" @click.prevent="SoftwareEspiaoDesktopNavbar">
-                      # Programa de celular VIP
+                      # Programa de telemóvel VIP
                     </button>
                     <button class="btn text-left btn-link text-white fs-17 pl-0 py-0 fw-600" @click.prevent="CursoDesktopNavbar">
-                      # Curso de detetive
+                      # Curso de detective
                     </button>
                     <button class="btn text-left btn-link text-white fs-17 pl-0 py-0 fw-600" @click.prevent="AcompanhamentoDesktopNavbar">
                       # Acompanhamento de filho
@@ -341,7 +341,7 @@
                   </a>
                 </div>
                 <h4 class="text-white mt-40 fw-600">
-                  Telefones para contato
+                  Telefones para contacto
                 </h4>
                 <div class="pr-35 mt-20 col-10 mx-auto">
                   <btn-quatro-sete />

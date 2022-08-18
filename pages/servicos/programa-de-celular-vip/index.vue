@@ -2,7 +2,7 @@
   <div>
     <div class="col-12 px-0">
       <h1 class="text-azul fs-xs-36 text-center fw-600">
-        Programa de celular VIP
+        Programa de telemóvel VIP
       </h1>
     </div>
     <div class="mt-xs-40 mt-sm-40 mt-lg-60 border-none">
@@ -10,12 +10,12 @@
         <div class="col-12 shadow-lg pb-30 pt-150 d-flex align-items-end px-0 bg-card border-radius-15">
           <div class="col-12 px-0">
             <h4 class="mx-3 text-xs-center text-sm-center text-lg-left text-white">
-              Programa de celular VIP
+              Programa de telemóvel VIP
             </h4>
             <div class="col-10 mx-xs-auto mx-sm-auto mx-lg-0 bg-azul-claro h-3" />
             <p class="ml-3 text-white text-xs-center text-sm-center text-lg-left fs-16 fw-500 mt-1 mb-0">
               Você precisa ter acesso ao que seu filho está fazendo na rua ou mesmo nas horas vagas? Está com
-              dúvidas em relação a idoneidade das suas companhias? Nosso Programa de celular monitora tudo
+              dúvidas em relação a idoneidade das suas companhias? Nosso Programa de telemóvel monitora tudo
               que você precisa saber para resguardar a integridade do seu filho.
             </p>
             <div class="d-flex justify-content-xs-center justify-content-sm-center justify-content-lg-start">
@@ -28,27 +28,27 @@
         </div>
       </div>
       <h3 class="text-azul fw-600 text-xs-center text-sm-center text-lg-left">
-        Sobre o programa de celular VIP
+        Sobre o programa de telemóvel VIP
       </h3>
       <p class="fw-600 text-xs-center text-sm-center text-lg-left mt-10 fs-17">
         Você precisa ter acesso ao que seu filho está fazendo na rua ou mesmo nas horas vagas?
         Tem dúvidas em relação a comportamentos dentro de sua empresa?
       </p>
       <p class="fw-600 text-xs-center text-sm-center text-lg-left mt-10 fs-17">
-        A IUNDEP Detetives possui um incrível Programa de Celular VIP, para que você possa monitorar tudo que está
+        A IUNDEP Detectives possui um incrível Programa de Telemóvel VIP, para que você possa monitorar tudo que está
         acontecendo de maneira precisa e muito eficiente. Através dele você poderá ter acesso a tudo, chamadas
-        telefônicas, agenda de contatos, mensagens de texto, teclas digitadas, redes sociais, localização em tempo
-        real, você terá acesso a câmera do celular onde conseguira ter acesso a imagens e áudios em tempo real,
+        telefônicas, agenda de contactos, mensagens de texto, teclas digitadas, redes sociais, localização em tempo
+        real, você terá acesso a câmera do telemóvel onde conseguira ter acesso a imagens e áudios em tempo real,
         e ainda mais funcionalidades.
       </p>
       <p class="fw-600 text-xs-center text-sm-center text-lg-left mt-10 fs-17">
         Este produto foi desenvolvido para que você possa monitorar tudo por 24 horas, sem perder nada. Você terá
-        acesso através de um painel de controle online e exclusivo, onde através dele você poderá proteger seu
+        acesso através de um painel de controlo online e exclusivo, onde através dele você poderá proteger seu
         filho contra danos, cyberbullying, predadores infantis e atitudes ruins que podem persegui-lo por anos.
       </p>
       <p class="fw-600 text-xs-center text-sm-center text-lg-left mt-10 fs-17">
         Da enganação, provocação e difamação online, há muitos perigos que vêm com a responsabilidade de ter um telefone
-        celular. Ao apenas enviar um texto ou uma foto inusitada para uma pessoa errada, seu filho pode ser perseguido
+        telemóvel. Ao apenas enviar um texto ou uma foto inusitada para uma pessoa errada, seu filho pode ser perseguido
         por anos. Seu filho está preparado para carregar esse peso por conta própria? Você sabendo destas informações
         que por muitas vezes ele tentará esconder por vergonha ou até mesmo medo de uma possível retaliação, você
         poderá ajudá-lo de maneira segura.
@@ -166,7 +166,7 @@
       <div class="accordion" role="tablist">
         <div class="col-12 px-0">
           <button v-b-toggle.accordion-1 class="btn btn-azul text-white d-flex align-items-center justify-content-between fw-600 text-left px-20 col-12">
-            É seguro utilizar o programa de celular VIP da IUNDEP Detetives? <i class="fa fa-angle-down fw-300 fs-25" />
+            É seguro utilizar o programa de telemóvel VIP da IUNDEP Detectives? <i class="fa fa-angle-down fw-300 fs-25" />
           </button>
           <b-collapse id="accordion-1" accordion="my-accordion" role="tabpanel">
             <b-card-body class="border py-3 bg-cinza border-radius-20 mt-2">
@@ -184,7 +184,7 @@
           <b-collapse id="accordion-2" accordion="my-accordion" role="tabpanel">
             <b-card-body class="border py-3 bg-cinza border-radius-20 mt-2">
               <p class="fw-600 fs-17 mb-0 text-xs-center text-sm-center text-lg-left">
-                Após a instalação do programa no celular alvo, precisamos de um
+                Após a instalação do programa no telemóvel alvo, precisamos de um
                 período de 24 horas para a liberação ao usuário.
               </p>
             </b-card-body>
@@ -197,7 +197,7 @@
           <b-collapse id="accordion-3" accordion="my-accordion" role="tabpanel">
             <b-card-body class="border py-3 bg-cinza border-radius-20 mt-2">
               <p class="fw-600 fs-17 mb-0 text-xs-center text-sm-center text-lg-left">
-                Seu painel de controle pode ser acessado de qualquer dispositivo
+                Seu painel de controlo pode ser acessado de qualquer dispositivo
                 deste que o mesmo tenha acesso a internet.
               </p>
             </b-card-body>
@@ -229,7 +229,7 @@
         </div>
         <div class="col-12 px-0">
           <button v-b-toggle.accordion-6 class="btn btn-azul text-white mt-2 d-flex align-items-center justify-content-between fw-600 text-left px-20 col-12">
-            Onde eu vejo os dados capturados do telefone, como interceptar e rastrear celular em tempo real? <i class="fa fa-angle-down fw-300 fs-25" />
+            Onde eu vejo os dados capturados do telefone, como interceptar e rastrear telemóvel em tempo real? <i class="fa fa-angle-down fw-300 fs-25" />
           </button>
           <b-collapse id="accordion-6" accordion="my-accordion" role="tabpanel">
             <b-card-body class="border py-3 bg-cinza border-radius-20 mt-2">
@@ -238,11 +238,11 @@
               </p>
               <p class="fw-600 fs-17 text-xs-center text-sm-center text-lg-left">
                 <span class="fw-700">1° forma:</span> Acessando o painel do site, através do seu próprio
-                celular ou de qualquer computador.
+                telemóvel ou de qualquer computador.
               </p>
               <p class="fw-600 fs-17 text-xs-center text-sm-center text-lg-left">
                 <span class="fw-700">2° forma:</span> Acessando por um aplicativo especifico do site que você instala no seu telefone,
-                com ele você tem o controle mais rápido do telefone pois não tem que ligar o computador,
+                com ele você tem o controlo mais rápido do telefone pois não tem que ligar o computador,
                 acessar o site e nem digitar dados de login novamente, pois já fica salvo no aplicativo,
                 depois que você entra uma vez ele não pedi mais a senha e você acessa mais rapidamente
                 certo? É assim também com o nosso app.
@@ -258,13 +258,13 @@
         </div>
         <div class="col-12 px-0">
           <button v-b-toggle.accordion-7 class="btn btn-azul text-white mt-2 d-flex align-items-center justify-content-between fw-600 text-left px-20 col-12">
-            Quem pode utilizar o Programa de Celular VIP? <i class="fa fa-angle-down fw-300 fs-25" />
+            Quem pode utilizar o Programa de Telemóvel VIP? <i class="fa fa-angle-down fw-300 fs-25" />
           </button>
           <b-collapse id="accordion-7" accordion="my-accordion" role="tabpanel">
             <b-card-body class="border py-3 bg-cinza border-radius-20 mt-2">
               <p class="fw-600 fs-17 mb-0 text-xs-center text-sm-center text-lg-left">
                 Para pais que queiram saber a fundo o segredo dos filhos de menores, principalmente na fase da
-                adolescência que é a mais perigosa, onde todos entram em contato aberto com as armadilhas do
+                adolescência que é a mais perigosa, onde todos entram em contacto aberto com as armadilhas do
                 mundo real. E para empresários que queiram saber o que acontece quando o mesmo não consegue
                 estar presente na empresa.
               </p>
@@ -281,7 +281,7 @@
                 Pais, mães, monitorar seu filho menor de idade é seu direito, você pode abrir a mochila do seu filho e
                 ver o que está dentro, da mesma forma o nosso programa, uso pessoal é um direito seu, mas entenda que
                 você não tem direito a monitorar a namorada ou namorado sem o consentimento, salvo se você tem
-                autorização por escrito do dono do celular alvo, não compactuamos com pessoas que cometem esse
+                autorização por escrito do dono do telemóvel alvo, não compactuamos com pessoas que cometem esse
                 tipo de erro, por isso temos a política de remoção e deixamos claro que nosso programa foi projetado
                 para uso familiar e pessoal, nunca foi para cônjuges desconfiados de traição, não queremos problemas
                 com nenhuma autoridade e muito menos violar qualquer lei.
@@ -291,7 +291,7 @@
         </div>
       </div>
       <h3 id="como-instalar-o-software-espiao" class="text-azul mt-40 fw-600 text-xs-center text-sm-center text-lg-left">
-        Como realizamos a instalação do Programa de Celular VIP
+        Como realizamos a instalação do Programa de Telemóvel VIP
       </h3>
       <p class="fw-600 text-xs-center text-sm-center text-lg-left mt-10 fs-17">
         Realizamos a instalação de uma forma que seu filho ou não perceba. Poder ser instalado enquanto a pessoa dorme,
@@ -314,7 +314,7 @@
           </h5>
           <p class="text-center fs-15 mb-0 fw-600">
             Tenha acesso a todas as mensagens de audio
-            e texto envidas e recebidas para o celular alvo.
+            e texto envidas e recebidas para o telemóvel alvo.
           </p>
         </div>
         <div class="col-sm-5 col-lg py-20 border-radius-20 bg-cinza m-1">
@@ -337,7 +337,7 @@
             Histórico de chamadas
           </h5>
           <p class="text-center fs-15 mb-0 fw-600">
-            Veja também o histórico de chamadas do celular do alvo,
+            Veja também o histórico de chamadas do telemóvel do alvo,
             tanto enviadas como recebidas.
           </p>
         </div>
@@ -375,7 +375,7 @@
             Escuta ambiente
           </h5>
           <p class="text-center fs-15 mb-0 fw-600">
-            O celular do investigado se torna uma escuta e você pode ouvir tudo do
+            O telemóvel do investigado se torna uma escuta e você pode ouvir tudo do
             seu aparelho.
           </p>
         </div>
@@ -396,10 +396,10 @@
             <i class="fa fa-address-book fw-400 fs-55" />
           </div>
           <h5 class="fw-700 fs-18 mt-20 text-center">
-            Lista de contato
+            Lista de contacto
           </h5>
           <p class="text-center fs-15 mb-0 fw-600">
-            Veja a lista completa de contatos salvos no celular da pessoa
+            Veja a lista completa de contactos salvos no telemóvel da pessoa
             investigada.
           </p>
         </div>
@@ -454,53 +454,53 @@
         </div>
       </div>
       <h3 class="text-azul fw-600 mt-30">
-        Programa de Celular VIP – Investigação Online
+        Programa de Telemóvel VIP – Investigação Online
       </h3>
       <div class="d-flex mt-30 row mx-auto">
         <div class="col-lg px-0">
           <div class="d-flex align-items-center fw-500 mt-1 fs-17">
-            <i class="fa fa-arrow-right text-azul fs-14 mr-2" /> Detetive Particular Whatsapp
+            <i class="fa fa-arrow-right text-azul fs-14 mr-2" /> Detective Privado Whatsapp
           </div>
           <div class="d-flex align-items-center fw-500 mt-1 fs-17">
-            <i class="fa fa-arrow-right text-azul fs-14 mr-2" /> Detetive Particular Instagram
+            <i class="fa fa-arrow-right text-azul fs-14 mr-2" /> Detective Privado Instagram
           </div>
           <div class="d-flex align-items-center fw-500 mt-1 fs-17">
-            <i class="fa fa-arrow-right text-azul fs-14 mr-2" /> Detetive Particular Facebook
+            <i class="fa fa-arrow-right text-azul fs-14 mr-2" /> Detective Privado Facebook
           </div>
           <div class="d-flex align-items-center fw-500 mt-1 fs-17">
-            <i class="fa fa-arrow-right text-azul fs-14 mr-2" /> Detetive Particular Tinder
+            <i class="fa fa-arrow-right text-azul fs-14 mr-2" /> Detective Privado Tinder
           </div>
           <div class="d-flex align-items-center fw-500 mt-1 fs-17">
-            <i class="fa fa-arrow-right text-azul fs-14 mr-2" /> Detetive Particular Sites de Relacionamento
+            <i class="fa fa-arrow-right text-azul fs-14 mr-2" /> Detective Privado Sites de Relacionamento
           </div>
           <div class="d-flex align-items-center fw-500 mt-1 fs-17">
-            <i class="fa fa-arrow-right text-azul fs-14 mr-2" /> Detetive Particular Telegram
+            <i class="fa fa-arrow-right text-azul fs-14 mr-2" /> Detective Privado Telegram
           </div>
           <div class="d-flex align-items-center fw-500 mt-1 fs-17">
-            <i class="fa fa-arrow-right text-azul fs-14 mr-2" /> Detetive Particular Online
+            <i class="fa fa-arrow-right text-azul fs-14 mr-2" /> Detective Privado Online
           </div>
         </div>
         <div class="col-lg px-0">
           <div class="d-flex align-items-center fw-500 mt-1 fs-17">
-            <i class="fa fa-arrow-right text-azul fs-14 mr-2" /> Detetive Particular Skype
+            <i class="fa fa-arrow-right text-azul fs-14 mr-2" /> Detective Privado Skype
           </div>
           <div class="d-flex align-items-center fw-500 mt-1 fs-17">
-            <i class="fa fa-arrow-right text-azul fs-14 mr-2" /> Detetive Particular Discord
+            <i class="fa fa-arrow-right text-azul fs-14 mr-2" /> Detective Privado Discord
           </div>
           <div class="d-flex align-items-center fw-500 mt-1 fs-17">
-            <i class="fa fa-arrow-right text-azul fs-14 mr-2" /> Detetive Particular Twitter
+            <i class="fa fa-arrow-right text-azul fs-14 mr-2" /> Detective Privado Twitter
           </div>
           <div class="d-flex align-items-center fw-500 mt-1 fs-17">
-            <i class="fa fa-arrow-right text-azul fs-14 mr-2" /> Detetive Particular E-mail
+            <i class="fa fa-arrow-right text-azul fs-14 mr-2" /> Detective Privado E-mail
           </div>
           <div class="d-flex align-items-center fw-500 mt-1 fs-17">
-            <i class="fa fa-arrow-right text-azul fs-14 mr-2" /> Detetive Particular SMS
+            <i class="fa fa-arrow-right text-azul fs-14 mr-2" /> Detective Privado SMS
           </div>
           <div class="d-flex align-items-center fw-500 mt-1 fs-17">
-            <i class="fa fa-arrow-right text-azul fs-14 mr-2" /> Detetive Particular Android
+            <i class="fa fa-arrow-right text-azul fs-14 mr-2" /> Detective Privado Android
           </div>
           <div class="d-flex align-items-center fw-500 mt-1 fs-17">
-            <i class="fa fa-arrow-right text-azul fs-14 mr-2" /> Detetive Particular VIP
+            <i class="fa fa-arrow-right text-azul fs-14 mr-2" /> Detective Privado VIP
           </div>
         </div>
       </div>
@@ -521,8 +521,8 @@
           </button>
         </h5>
         <p class="mt-3 fw-500">
-          Este documento se aplica para a utilização do nosso Programa de celular VIP
-          oferecidos pela IUNDEP DETETIVES. Ao adquirir nosso software, você concorda em ficar
+          Este documento se aplica para a utilização do nosso Programa de telemóvel VIP
+          oferecidos pela IUNDEP DETECTIVES. Ao adquirir nosso software, você concorda em ficar
           vinculado por estes Termos e Condições de Uso, todas as leis e regulamentos aplicáveis,
           e concorda que você é responsável pelo cumprimento das leis locais aplicáveis.
           Caso você não concorde com qualquer um destes termos, você está expressamente
@@ -533,11 +533,11 @@
         </p>
         <p class="mt-3 fw-500">
           <i class="fa fa-minus text-azul mr-1" /> Você reconhece e declara que é proprietário legal do dispositivo
-          (celular, tablete, etc.) no qual o software será instalado, ou que tenha recebido
+          (telemóvel, tablete, etc.) no qual o software será instalado, ou que tenha recebido
           o consentimento expresso, por escrito, do usuário efetivo (caso venha a ser terceiros)
           do dispositivo, concedendo-lhe o direito de ser o administrador autorizado do telefone,
           seu conteúdo e seus usuários o monitoramento de seus sms, chamadas, localização,
-          vídeos, fotos, contatos, histórico de navegação na Internet, e ouvir suas ligações
+          vídeos, fotos, contactos, histórico de navegação na Internet, e ouvir suas ligações
           gravadas a qualquer momento, bem como destinará sua utilização somente para fins lícitos.
         </p>
         <p class="mt-3 fw-500">

@@ -5,13 +5,13 @@
         Sobre nossa empresa
       </h2>
       <p class="fw-600 text-xs-center text-sm-center text-lg-left mt-20 fs-18">
-        A IUNDEP DETETIVES é uma agência de detetives particulares especializada em investigações
+        A IUNDEP DETECTIVES é uma agência de detectives privados especializada em investigações
         de caráter conjugal, industrial, empresarial, comercial, familiar, política e assuntos privados.
         Com experiência internacional e atuando no mercado há mais de 20 anos, nossa empresa conta com uma
-        equipe altamente qualificada de profissionais preparados e reciclados periodicamente, com atendimento
-        personalizado cada caso é analisado individualmente por nossa equipe, com o planejamento adequado para
+        equipa altamente qualificada de profissionais preparados e reciclados periodicamente, com atendimento
+        personalizado cada caso é analisado individualmente por nossa equipa, com o planejamento adequado para
         cada situação, visando resultados rápidos e esclarecedores, buscando assim, o êxito e satisfação plena
-        de nossos clientes. Nossos detetives são especializados e capacitados, fizemos uso das mais variadas
+        de nossos clientes. Nossos detectives são especializados e capacitados, fizemos uso das mais variadas
         técnicas de investigação que garantem maior eficiência e produção de provas de qualidade.
       </p>
       <p class="fw-600 text-xs-center text-sm-center text-lg-left mt-20 fs-18">

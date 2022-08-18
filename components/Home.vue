@@ -56,7 +56,7 @@
                     <div class="div-circulo-selections-2" />
                     <div class="description-select d-flex align-items-center justify-content-end">
                       <h6 class="text-white fs-18 text-right mr-2 mb-0">
-                        Programa de celular
+                        Programa de telemóvel
                       </h6>
                       <div class="bolinha-description-select d-flex justify-content-center align-items-center">
                         <i class="fas fa-mobile-alt text-white fs-26" />
@@ -130,7 +130,7 @@
                     <div class="div-circulo-selections-2" />
                     <div class="description-select d-flex align-items-center justify-content-end">
                       <h6 class="text-white fs-18 text-right mr-2 mb-0">
-                        Programa de celular
+                        Programa de telemóvel
                       </h6>
                       <div class="bolinha-description-select d-flex justify-content-center align-items-center">
                         <i class="fas fa-mobile-alt text-white fs-26" />
@@ -162,11 +162,11 @@
             <div class="container mt-xs-70 mt-sm-50 mt-xl-120 d-flex align-items-center row mx-auto justify-content-xs-center justify-content-sm-center justify-content-xl-between position-absolute">
               <div class="col-md-10 col-xl-5 animate__animated animate__fadeInLeft px-0">
                 <h1 class="text-white text-xs-center text-sm-center text-xl-left fs-sm-45">
-                  Monitore celulares por meio do <span class="text-azul-light fw-600">programa de celular VIP</span>
+                  Monitore telemóveles por meio do <span class="text-azul-light fw-600">programa de telemóvel VIP</span>
                 </h1>
                 <p class="text-white text-xs-center text-sm-center text-xl-left mt-3 mb-0">
-                  Monitore o celular de seu(a) filho(a) e tenha acesso a: <span class="text-azul-light fw-700">conversas de WhatsApp,
-                    Instagram, Skype, acesso a câmera do celular</span> e muitas outras funcionalidades.
+                  Monitore o telemóvel de seu(a) filho(a) e tenha acesso a: <span class="text-azul-light fw-700">conversas de WhatsApp,
+                    Instagram, Skype, acesso a câmera do telemóvel</span> e muitas outras funcionalidades.
                 </p>
               </div>
               <div class="col-xl-6 mt-xs-70 mt-sm-70 mt-md-100 mt-xl-0 d-flex justify-content-sm-center justify-content-xl-between row mx-0 px-0">
@@ -204,7 +204,7 @@
                     <div class="div-circulo-selections-2 animate-selection-2" />
                     <div class="description-select d-flex align-items-center justify-content-end">
                       <h6 class="text-white fs-18 text-right mr-2 mb-0">
-                        Programa de celular
+                        Programa de telemóvel
                       </h6>
                       <div class="bolinha-description-select d-flex justify-content-center align-items-center">
                         <i class="fas fa-mobile-alt text-white fs-26" />
@@ -278,7 +278,7 @@
                     <div class="div-circulo-selections-2" />
                     <div class="description-select d-flex align-items-center justify-content-end">
                       <h6 class="text-white fs-18 text-right mr-2 mb-0">
-                        Programa de celular
+                        Programa de telemóvel
                       </h6>
                       <div class="bolinha-description-select d-flex justify-content-center align-items-center">
                         <i class="fas fa-mobile-alt text-white fs-26" />

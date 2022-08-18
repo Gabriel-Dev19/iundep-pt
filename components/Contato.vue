@@ -1,7 +1,7 @@
 <template>
   <div id="contato" class="container pt-xs-80 pt-sm-80 pt-lg-120">
     <h1 class="text-azul text-center fs-xs-36 fw-600">
-      Entre em contato
+      Entre em contacto
     </h1>
     <div class="d-flex row border shadow overflow-hidden mx-auto border-radius-15 mt-xs-40 mt-sm-40 mt-lg-60">
       <div class="col-lg-5 py-35 d-flex align-items-center bg-azul">
@@ -62,7 +62,7 @@
           <div v-show="ShowMsgSuccessFloat" class="col-12 mensagem-flutuante">
             <div class="col-12 px-0 d-flex justify-content-center">
               <div class="py-1 bg-success d-flex align-items-center shadow fw-500 justify-content-between text-white col-xl-6 rounded">
-                Mensagem enviada com sucesso, em breve entraremos em contato com você.
+                Mensagem enviada com sucesso, em breve entraremos em contacto com você.
                 <button class="btn pr-0 d-flex justify-content-center align-items-center pt-0 pb-0" @click.prevent="CloseMsgSuccess">
                   <i class="fa fa-times text-white fs-20 fw-400" />
                 </button>
@@ -71,7 +71,7 @@
           </div>
           <form autocomplete="off" class="mt-30" @submit.prevent="submit">
             <div v-show="ShowMsgSuccess" class="rounded bg-success py-1 mb-3 px-2 text-white">
-              Mensagem enviada com sucesso, em breve entraremos em contato
+              Mensagem enviada com sucesso, em breve entraremos em contacto
             </div>
             <div class="d-flex row mx-auto">
               <div class="form-group col-sm px-0">
@@ -94,7 +94,7 @@
                   v-mask="mask"
                   type="text"
                   class="form-control shadow-sm"
-                  placeholder="Telefone para contato"
+                  placeholder="Telefone para contacto"
                   @focus="ShowMsgError = true"
                   @keypress="VerificaNumero()"
                   @keyup.backspace="VerificaNumeroDelete()"
@@ -112,13 +112,13 @@
             </div>
             <div class="d-flex row mx-auto">
               <div class="form-group col-sm px-0">
-                <input v-model="estado" type="text" class="form-control shadow-sm" placeholder="Estado" @focus="ShowMsgError = true">
+                <input v-model="estado" type="text" class="form-control shadow-sm" placeholder="Distrito" @focus="ShowMsgError = true">
                 <div v-show="ShowMsgError" v-if="$v.estado.$error" class="error text-left px-2">
-                  Preencha com seu estado
+                  Preencha com seu distrito
                 </div>
               </div>
               <div class="form-group col-sm px-0 ml-sm-3 mt-xs-3">
-                <input v-model="data_contato" type="text" class="form-control shadow-sm" placeholder="Data para contato" @focus="ShowMsgError = true">
+                <input v-model="data_contato" type="text" class="form-control shadow-sm" placeholder="Data para contacto" @focus="ShowMsgError = true">
                 <div v-show="ShowMsgError" v-if="$v.data_contato.$error" class="error text-left px-2">
                   Coloque uma data para retorno
                 </div>
@@ -126,7 +126,7 @@
             </div>
             <div class="d-flex row mx-auto">
               <div class="form-group col-sm px-0">
-                <input v-model="horario" type="text" class="form-control shadow-sm" placeholder="Horário para contato" @focus="ShowMsgError = true">
+                <input v-model="horario" type="text" class="form-control shadow-sm" placeholder="Horário para contacto" @focus="ShowMsgError = true">
                 <div v-show="ShowMsgError" v-if="$v.horario.$error" class="error text-left px-2">
                   Coloque um horário para retorno
                 </div>
@@ -149,10 +149,10 @@
                     Acompanhamento de filhos
                   </option>
                   <option value="Curso de detetive particular">
-                    Curso de detetive particular
+                    Curso de detective privado
                   </option>
                   <option value="Programa Celular espião">
-                    Programa Celular espião
+                    Programa Telemóvel espião
                   </option>
                 </select>
                 <div v-show="ShowMsgError" v-if="$v.tipo_servico.$error" class="error text-left px-2">

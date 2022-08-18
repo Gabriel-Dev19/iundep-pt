@@ -5,7 +5,7 @@
         Nossos valores favorecem você!
       </h2>
       <p class="mt-20 text-xs-center text-sm-center text-lg-left fw-600 fs-18">
-        A IUNDEP Detetives tem valores que favorecem você na hora de procurar
+        A IUNDEP Detectives tem valores que favorecem você na hora de procurar
         um profissional para resolver seu caso. Nós temos a missão entregar aos nossos
         clientes resultados precisos e realistas. Temos a visão de ser reconhecidos pelos
         clientes e parceiros como referência no ramo de investigação. E temos a
@@ -24,8 +24,8 @@
               Missão
             </h5>
             <p class="mb-0 fw-600 text-xs-center text-sm-center text-md-left fs-17">
-              A IUNDEP Detetives, tem como missão entregar aos nossos clientes resultados
-              precisos e realistas. Atuamos através de uma equipe especializada e do fornecimento
+              A IUNDEP Detectives, tem como missão entregar aos nossos clientes resultados
+              precisos e realistas. Atuamos através de uma equipa especializada e do fornecimento
               de serviços de qualidade em investigação.
             </p>
           </div>
@@ -36,7 +36,7 @@
               Visão
             </h5>
             <p class="mb-0 fw-600 text-xs-center text-sm-center text-md-left fs-17">
-              A IUNDEP Detetives, tem como visão ser reconhecida pelos clientes
+              A IUNDEP Detectives, tem como visão ser reconhecida pelos clientes
               e parceiros como referência no ramo de investigação, por meio da ética,
               do compromisso e do profissionalismo.
             </p>
@@ -50,7 +50,7 @@
               Valores
             </h5>
             <p class="mb-0 fw-600 text-xs-center text-sm-center text-md-left fs-17">
-              Para a IUNDEP Detetives, são valores a ética, compromisso e profissionalismo
+              Para a IUNDEP Detectives, são valores a ética, compromisso e profissionalismo
               - esses são os três pilares que norteiam nossas atividades. Tudo para oferecer
               aos nossos clientes excelência no que fazemos.
             </p>

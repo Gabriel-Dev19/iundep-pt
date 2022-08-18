@@ -33,7 +33,7 @@
       <p class="fw-600 text-xs-center text-sm-center text-lg-left mt-10 fs-17">
         A investigação conjugal é um dos serviços mais procurados em nossa agência,
         pensando em oferecer serviços de qualidade, com transparência, sigilo
-        e credibilidade a IUNDEP Detetives vem se destacando no mercado nacional
+        e credibilidade a IUNDEP Detectives vem se destacando no mercado nacional
         com mais de 2300 casos solucionados, ao longo de 20 anos de trabalho.
       </p>
       <p class="fw-600 text-xs-center text-sm-center text-lg-left fs-17">
@@ -50,38 +50,38 @@
         Quando surgem dúvidas sobre a infidelidade conjugal, é fundamental
         contar com a experiência de profissional especializado para identificar
         se está mesmo acontecendo a traição. É nessas horas que recomenda-se os
-        serviços de um detetive particular.
+        serviços de um detective privado.
       </p>
       <p class="fw-600 text-xs-center text-sm-center text-lg-left fs-17">
-        O detetive particular é um profissional capacitado e com experiência em buscas
-        através de provas para comprovar ou descartar uma traição. A IUNDEP Detetives
+        O detective privado é um profissional capacitado e com experiência em buscas
+        através de provas para comprovar ou descartar uma traição. A IUNDEP Detectives
         irá analisar as suspeitas de infidelidade com sigilo, cuidado e confiança.
         O objetivo é levar toda a verdade dos fatos ao nosso cliente.
       </p>
       <p class="fw-600 text-xs-center text-sm-center text-lg-left fs-17">
-        A IUNDEP Detetives conta com a experiência de detetives treinados e capacitados para trabalhar no seu caso.
+        A IUNDEP Detectives conta com a experiência de detectives treinados e capacitados para trabalhar no seu caso.
         Cada caso é tratado de forma exclusiva, de acordo com a necessidade de
         cada cliente, onde este será estudado minuciosamente e buscaremos a melhor
         técnica de investigação para que possamos elucidar e levar ao nosso cliente
         a resposta que tanto espera.
       </p>
       <p class="fw-600 text-xs-center text-sm-center text-lg-left fs-17">
-        <a v-smooth-scroll="{duration: 500, offset: -80}" href="#contato" class="fw-600 p-0 btn-link">Entre em contato</a> agora e vamos lhe orientar. Consulta sem compromisso.
+        <a v-smooth-scroll="{duration: 500, offset: -80}" href="#contato" class="fw-600 p-0 btn-link">Entre em contacto</a> agora e vamos lhe orientar. Consulta sem compromisso.
       </p>
       <h3 id="quando-contratar-a-investigacao-conjugal" class="text-azul mt-30 fw-600 text-xs-center text-sm-center text-lg-left">
-        Quando contratar um detetive particular para casos de infidelidade conjugal?
+        Quando contratar um detective privado para casos de infidelidade conjugal?
       </h3>
       <p class="fw-600 text-xs-center text-sm-center text-lg-left mt-10 fs-17">
-        A contratação de um detetive particular para o caso de infidelidade conjugal
+        A contratação de um detective privado para o caso de infidelidade conjugal
         é válida quando percebe-se mudanças de comportamento por parte do cônjuge,
-        oscilação de humor, alteração de senhas, celular passa a ficar sempre junto
+        oscilação de humor, alteração de senhas, telemóvel passa a ficar sempre junto
         da pessoa, estes são alguns dos principais indícios de infidelidade.
       </p>
       <h3 id="como-realizamos-a-investigacao-conjugal" class="text-azul mt-30 fw-600 text-xs-center text-sm-center text-lg-left">
         Como realizamos a investigação conjugal
       </h3>
       <p class="fw-600 text-xs-center text-sm-center text-lg-left mt-10 fs-17">
-        A Investigação Conjugal precisa ser realizada com detetive particular capacitado
+        A Investigação Conjugal precisa ser realizada com detective privado capacitado
         e que possua técnicas modernas capazes de detectar o alvo nas mais diversas situações.
         Inicialmente, ele irá reunir todas as informações básicas sobre o investigado,
         como nome completo, local de trabalho ou estudo, horários de atividades durante
@@ -94,14 +94,14 @@
         1°: Observação online
       </h4>
       <p class="fw-600 text-xs-center text-sm-center text-lg-left mt-10 fs-17">
-        Com uma rápida busca no perfil do investigado, o detetive particular
+        Com uma rápida busca no perfil do investigado, o detective privado
         irá identificar informações sobre atividades da rotina, amizades e preferências.
       </p>
       <h4 id="sinais-traicao" class="text-azul mt-30 fw-600 text-xs-center text-sm-center text-lg-left">
         2°: Acompanhamento presencial
       </h4>
       <p class="fw-600 text-xs-center text-sm-center text-lg-left mt-10 fs-17">
-        Com as informações  já coletadas, o detetive irá montar uma estratégia para
+        Com as informações  já coletadas, o detective irá montar uma estratégia para
         acompanhamento do alvo, utilizaremos de ferramentas necessárias para encontrar
         o investigado. Outra alternativa é acompanhar os passos do investigado ao longo
         do dia e segui-lo em todos os locais presencialmente. Em média, a segunda etapa
@@ -111,7 +111,7 @@
         3°: Reunião dos fatos
       </h4>
       <p class="fw-600 text-xs-center text-sm-center text-lg-left mt-10 fs-17">
-        Ao longo das duas primeiras etapas, o detetive particular irá reunir fotos, vídeos,
+        Ao longo das duas primeiras etapas, o detective privado irá reunir fotos, vídeos,
         áudios e outras informações relacionadas às atividades suspeitas. Na terceira etapa,
         será o momento de reunir todos os diferentes tipos de provas para comprovar a infidelidade.
       </p>
@@ -119,7 +119,7 @@
         4°: Conclusão da investigação conjugal
       </h4>
       <p class="fw-600 text-xs-center text-sm-center text-lg-left mt-10 fs-17">
-        Para finalizar as investigações, o detetive particular irá elaborar um relatório final,
+        Para finalizar as investigações, o detective privado irá elaborar um relatório final,
         este documento reunirá todas provas que comprovam a infidelidade e entrega ao cliente.
         O relatório é obrigatório porque apresenta os resultados da investigação. Caso não tenham
         provas de traição, o relatório final serve para comprovar o trabalho realizado.

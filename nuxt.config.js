@@ -7,14 +7,14 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'Detetive particular em Balneário Camboriú | Florianópolis | Blumenau | Criciúma | Caçador | Porto Alegre | Maringá ',
+    title: 'Detective privado em Lisboa | Porto | Évora  | Braga | Faro | Coimbra | Aveiro ',
     htmlAttrs: {
       lang: 'pt-BR'
     },
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: 'A IUNDEP Detetives é uma agência de investigação que atende demandas de investigação empresarial, investigação conjugal, localização de pessoas desaparecidas, programa de celular e outros serviços' },
+      { hid: 'description', name: 'description', content: 'A IUNDEP Detectives é uma agência de investigação que atende demandas de investigação empresarial, investigação conjugal, localização de pessoas desaparecidas, programa de telemóvel e outros serviços' },
       { name: 'theme-color', content: '#00649e' },
       { name: 'apple-mobile-web-app-status-bar-style', content: '#00649e' },
       { name: 'msapplication-navbutton-color', content: '#00649e' },

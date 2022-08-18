@@ -2,7 +2,7 @@
   <div>
     <div class="col-12 px-0">
       <h1 class="text-azul fs-xs-36 text-center fw-600">
-        Curso de detetive particular
+        Curso de detective privado
       </h1>
     </div>
     <div class="mt-xs-40 mt-sm-40 mt-lg-60 border-none">
@@ -10,13 +10,12 @@
         <div class="col-12 shadow-lg pb-30 pt-150 d-flex align-items-end px-0 bg-card border-radius-15">
           <div class="col-12 px-0">
             <h4 class="mx-3 text-xs-center text-sm-center text-lg-left text-white">
-              Curso de detetive particular
+              Curso de detective privado
             </h4>
             <div class="col-10 mx-xs-auto mx-sm-auto mx-lg-0 bg-azul-claro h-3" />
             <p class="ml-3 text-white text-xs-center text-sm-center text-lg-left fs-16 fw-500 mt-1 mb-0">
-              Venha se especializar com quem é líder no ramo de Investigação Particular. Realizando
-              nosso Curso de Detetive
-              Particular, você estará recebendo online um material de qualidade para estudar em suas horas vagas.
+              Venha se especializar com quem é líder no ramo de Investigação Privada. Realizando
+              nosso Curso de Detective Privado, você estará recebendo online um material de qualidade para estudar em suas horas vagas.
             </p>
             <div class="d-flex justify-content-xs-center justify-content-sm-center justify-content-lg-start">
               <btn-azul-ligue-agora class="mt-3 ml-3" />
@@ -28,11 +27,11 @@
         </div>
       </div>
       <h3 class="text-azul fw-600 text-xs-center text-sm-center text-lg-left">
-        Curso de detetive particular da IUNDEP
+        Curso de detective privado da IUNDEP
       </h3>
       <p class="fw-600 text-xs-center text-sm-center text-lg-left mt-10 fs-17">
-        Venha se especializar com quem é líder no ramo de Investigação Particular. Realizando nosso Curso de Detetive
-        Particular, você estará recebendo online um material de qualidade para estudar em suas horas vagas, sem sair de
+        Venha se especializar com quem é líder no ramo de Investigação Privada. Realizando nosso Curso de Detective
+        Privado, você estará recebendo online um material de qualidade para estudar em suas horas vagas, sem sair de
         casa e tudo dentro do seu próprio ritmo.
       </p>
       <h3 class="text-azul fw-600 text-xs-center text-sm-center text-lg-left">
@@ -40,22 +39,22 @@
       </h3>
       <p class="fw-600 text-xs-center text-sm-center text-lg-left mt-10 fs-17">
         Apostila baseada em todo conhecimento adquirido em mais de 20 anos de atuação no ramo da investigação particular.
-        Preparamos para você um material simples e objetivo, para você tirar todas as suas dúvidas e se tornar um detetive
+        Preparamos para você um material simples e objetivo, para você tirar todas as suas dúvidas e se tornar um detective
         particular de sucesso.
       </p>
       <h3 class="text-azul fw-600 text-xs-center text-sm-center text-lg-left">
         Certificado de conclusão
       </h3>
       <p class="fw-600 text-xs-center text-sm-center text-lg-left mt-10 fs-17">
-        Após conclusão e aprovação do curso, você receberá o certificado de Detetive Particular Profissional impresso
+        Após conclusão e aprovação do curso, você receberá o certificado de Detective Privado Profissional impresso
         e autenticado por nossa empresa.
       </p>
       <h3 class="text-azul fw-600 text-xs-center text-sm-center text-lg-left">
-        Carteira de detetive particular
+        Carteira de detective privado
       </h3>
       <p class="fw-600 text-xs-center text-sm-center text-lg-left mt-10 fs-17">
         Além do certificado, ao concluir nosso curso você receberá também sua Carteira
-        de Detetive Particular Profissional.
+        de Detective Privado Profissional.
       </p>
       <h3 class="text-azul fw-600 text-xs-center text-sm-center text-lg-left">
         Como adquirir nosso curso?
@@ -73,7 +72,7 @@
           </h4>
           <p class=" fw-600 text-center fs-17">
             Enviaremos para sua casa o material didático, impresso com acabamento de primeira linha e você terá
-            em suas mãos a melhor apostila sobre Detetive Particular.
+            em suas mãos a melhor apostila sobre Detective Privado.
           </p>
           <div class="d-flex justify-content-center">
             <button class="btn btn-azul text-white px-20 " @click.prevent="$root.$emit('ShowModalWhatsapp')">
@@ -90,7 +89,7 @@
           </h4>
           <p class=" fw-600 text-center fs-17">
             Enviaremos para sua casa o material didático, impresso com acabamento de primeira linha e você terá
-            em suas mãos a melhor apostila sobre Detetive Particular.
+            em suas mãos a melhor apostila sobre Detective Privado.
           </p>
           <div class="d-flex justify-content-center">
             <button class="btn btn-azul text-white px-20 " @click.prevent="$root.$emit('ShowModalWhatsapp')">
@@ -110,7 +109,7 @@
           <b-collapse id="accordion-1" accordion="my-accordion" role="tabpanel">
             <b-card-body class="border py-3 bg-cinza border-radius-20 mt-2">
               <p class="fw-600 fs-17 mb-0 text-xs-center text-sm-center text-lg-left">
-                O nosso Curso de Detetive Particular é ministrado somente à distância e por meio de apostila,
+                O nosso Curso de Detective Privado é ministrado somente à distância e por meio de apostila,
                 que é fornecida ao aluno. Neste curso o aluno terá a comodidade de aprender tudo sobre investigação
                 sem sair de casa, usando suas horas livres e finais de semana, dentro do seu próprio ritmo e
                 onde desejar. Além disso poderá contar com a ajuda de nossos profissionais se houver alguma
@@ -126,8 +125,8 @@
           <b-collapse id="accordion-2" accordion="my-accordion" role="tabpanel">
             <b-card-body class="border py-3 bg-cinza border-radius-20 mt-2">
               <p class="fw-600 fs-17 mb-0 text-xs-center text-sm-center text-lg-left">
-                Nossa própria Agência dará a você a oportunidade de fazer parte da nossa equipe. Além disso o mercado de
-                Investigação Particular tem carências de profissionais para atuação
+                Nossa própria Agência dará a você a oportunidade de fazer parte da nossa equipa. Além disso o mercado de
+                Investigação Privada tem carências de profissionais para atuação
                 em todo o território nacional, ou seja, você sendo qualificado sempre surgirá oportunidades para você.
               </p>
             </b-card-body>
@@ -135,13 +134,13 @@
         </div>
         <div class="col-12 px-0">
           <button v-b-toggle.accordion-3 class="btn btn-azul text-white mt-2 d-flex align-items-center justify-content-between fw-600 text-left px-20 col-12">
-            O que recebo quando finalizar o curso de detetive? <i class="fa fa-angle-down fw-300 fs-25" />
+            O que recebo quando finalizar o curso de detective? <i class="fa fa-angle-down fw-300 fs-25" />
           </button>
           <b-collapse id="accordion-3" accordion="my-accordion" role="tabpanel">
             <b-card-body class="border py-3 bg-cinza border-radius-20 mt-2">
               <p class="fw-600 fs-17 mb-0 text-xs-center text-sm-center text-lg-left">
                 O Certificado de Conclusão é emitido havendo um acerto mínimo de 70% das questões da prova.
-                Carteira Profissional de Detetive Particular.
+                Carteira Profissional de Detective Privado.
               </p>
             </b-card-body>
           </b-collapse>
@@ -161,12 +160,12 @@
         </div>
         <div class="col-12 px-0">
           <button v-b-toggle.accordion-5 class="btn btn-azul text-white mt-2 d-flex align-items-center justify-content-between fw-600 text-left px-20 col-12">
-            Quanto ganha um detetive particular? <i class="fa fa-angle-down fw-300 fs-25" />
+            Quanto ganha um detective privado? <i class="fa fa-angle-down fw-300 fs-25" />
           </button>
           <b-collapse id="accordion-5" accordion="my-accordion" role="tabpanel">
             <b-card-body class="border py-3 bg-cinza border-radius-20 mt-2">
               <p class="fw-600 fs-17 mb-0 text-xs-center text-sm-center text-lg-left">
-                Dependendo do seu fluxo de trabalho o detetive pode alcançar
+                Dependendo do seu fluxo de trabalho o detective pode alcançar
                 remunerações de R$ 15.000 á R$ 20.000
               </p>
             </b-card-body>
@@ -183,7 +182,7 @@
               Investimento
             </h6>
             <p class="mb-0 text-center fw-500 fs-13">
-              O valor mínimo de investimento no curso de Detetive Particular é de apenas R$ 499,00,
+              O valor mínimo de investimento no curso de Detective Privado é de apenas R$ 499,00,
               e você recebe o material completo.
             </p>
           </div>
@@ -221,7 +220,7 @@
               O melhor material
             </h6>
             <p class="mb-0 text-center fw-500 fs-13">
-              Nosso material foi elaborado por detetives experientes com mais de 25 anos de experiência
+              Nosso material foi elaborado por detectives experientes com mais de 25 anos de experiência
               na área de investigação
             </p>
           </div>
