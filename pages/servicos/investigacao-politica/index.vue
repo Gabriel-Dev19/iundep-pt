@@ -80,7 +80,7 @@
         No geral, o grande objetivo é encontrar algo de errado no candidato, dando ao eleitor
         ou a outro candidato a oportunidade e o direito de saber mais sobre qualquer indivíduo
         que está tentando ingressar na carreira política, com o intuito de ajudar a preservar
-        e amenizar o atual cenário político do Brasil. Sabemos que em nosso País e na sociedade
+        e amenizar o atual cenário político de Portugal. Sabemos que em nosso País e na sociedade
         como um todo, algumas pessoas quando entram na vida política, acabam agindo somente
         em benefício próprio ou em benefício de seus aliados.
       </p>

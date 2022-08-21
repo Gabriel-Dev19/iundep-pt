@@ -7,7 +7,7 @@
         </h4>
         <div class="col-10 mx-xs-auto mx-sm-auto mx-lg-0 bg-azul-claro h-3" />
         <p class="ml-3 text-white text-xs-center text-sm-center text-lg-left fs-16 fw-500 mt-1 mb-0">
-          Ao longo destes anos temos centenas de casos resolvidos em todo o Brasil e e, alguns países
+          Ao longo destes anos temos centenas de casos resolvidos em todo o Portugal e e, alguns países
           do Mercosul, para nós nada é um mistério, lidamos com casos de investigação todos os dias e
           somos peritos no que fazemos. Caso você tenha que levar a situação para o lado judicial,
           fornecemos provas judicialmente aceitas.

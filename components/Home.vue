@@ -236,11 +236,11 @@
             <div class="container mt-xs-70 mt-sm-50 mt-xl-120 d-flex align-items-center row mx-auto justify-content-xs-center justify-content-sm-center justify-content-xl-between position-absolute">
               <div class="col-md-10 col-xl-5 animate__animated animate__fadeInLeft px-0">
                 <h1 class="text-white text-xs-center text-sm-center text-xl-left fs-sm-45">
-                  <span class="text-azul-light fw-600">Localizamos pessoas</span> em qualquer parte do <span class="text-azul-light fw-600">Brasil</span>
+                  <span class="text-azul-light fw-600">Localizamos pessoas</span> em qualquer parte do <span class="text-azul-light fw-600">Portugal</span>
                 </h1>
                 <p class="text-white text-xs-center text-sm-center text-xl-left mt-3 mb-0">
                   Com nosso serviço de <span class="text-azul-light fw-700">Localização de pessoas</span> conseguimos encontrar
-                  <span class="text-azul-light fw-700">qualquer pessoa</span> em todo território brasileiro.
+                  <span class="text-azul-light fw-700">qualquer pessoa</span> em todo território português.
                 </p>
               </div>
               <div class="col-xl-6 mt-xs-70 mt-sm-70 mt-md-100 mt-xl-0 d-flex justify-content-sm-center justify-content-xl-between row mx-0 px-0">

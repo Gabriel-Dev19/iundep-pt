@@ -48,7 +48,7 @@
         Saber trabalhar com discrição;
       </p>
       <p class="fw-600 text-center fs-17">
-        Conhecimento básico das leis brasileiras.
+        Conhecimento básico das leis portuguesas.
       </p>
       <h2 class="text-azul fs-xs-25 mt-50 text-center fw-600">
         Vantagens
@@ -86,7 +86,7 @@
       <p class="fw-600 text-center mt-10 fs-17">
         Temos uma vasta experiência profissional com mais de 20 anos de mercado, atuando com
         sucesso em todas as tarefas que recebemos. Nossos detectives são totalmente qualificados para exercer as
-        funções delegadas aos mesmos. Temos profissionais atuando em 8 dos principais Estados brasileiros.
+        funções delegadas aos mesmos. Temos profissionais atuando nos principais distritos de Portugal.
       </p>
     </div>
     <div id="buttonVoltar">
