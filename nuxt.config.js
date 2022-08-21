@@ -70,7 +70,7 @@ export default {
     'nuxt-facebook-pixel-module'
   ],
   sitemap: {
-    hostname: 'https://iundep.com.br/'
+    hostname: 'https://iundepdetectives.pt/'
   },
   facebook: {
     /* module options */
