@@ -546,7 +546,7 @@ export default {
     },
     // FUNÇÕES DAS CIDADES DESKTOP
     AveiroDesktop () {
-      this.$router.push('/detetive-particular-em-Aveiro#sobre')
+      this.$router.push('/detective-privado-em-Aveiro#sobre')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -557,7 +557,7 @@ export default {
       }, 300)
     },
     BragaDesktop () {
-      this.$router.push('/detetive-particular-em-Braga#sobre')
+      this.$router.push('/detective-privado-em-Braga#sobre')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -568,7 +568,7 @@ export default {
       }, 300)
     },
     BragancaDesktop () {
-      this.$router.push('/detetive-particular-em-Braganca#sobre')
+      this.$router.push('/detective-privado-em-Braganca#sobre')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -579,7 +579,7 @@ export default {
       }, 300)
     },
     CasteloBrancoDesktop () {
-      this.$router.push('/detetive-particular-em-Castelo-Branco#sobre')
+      this.$router.push('/detective-privado-em-Castelo-Branco#sobre')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -590,7 +590,7 @@ export default {
       }, 300)
     },
     CoimbraDesktop () {
-      this.$router.push('/detetive-particular-em-Coimbra#sobre')
+      this.$router.push('/detective-privado-em-Coimbra#sobre')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -601,7 +601,7 @@ export default {
       }, 300)
     },
     EvoraDesktop () {
-      this.$router.push('/detetive-particular-em-Evora#sobre')
+      this.$router.push('/detective-privado-em-Evora#sobre')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -612,7 +612,7 @@ export default {
       }, 300)
     },
     FaroDesktop () {
-      this.$router.push('/detetive-particular-em-Faro#sobre')
+      this.$router.push('/detective-privado-em-Faro#sobre')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -623,7 +623,7 @@ export default {
       }, 300)
     },
     GuardaDesktop () {
-      this.$router.push('/detetive-particular-em-Guarda#sobre')
+      this.$router.push('/detective-privado-em-Guarda#sobre')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -634,7 +634,7 @@ export default {
       }, 300)
     },
     LeiriaDesktop () {
-      this.$router.push('/detetive-particular-em-Leiria#sobre')
+      this.$router.push('/detective-privado-em-Leiria#sobre')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -645,7 +645,7 @@ export default {
       }, 300)
     },
     LisboaDesktop () {
-      this.$router.push('/detetive-particular-em-Lisboa#sobre')
+      this.$router.push('/detective-privado-em-Lisboa#sobre')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -656,7 +656,7 @@ export default {
       }, 300)
     },
     PortalegreDesktop () {
-      this.$router.push('/detetive-particular-em-Portalegre#sobre')
+      this.$router.push('/detective-privado-em-Portalegre#sobre')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -667,7 +667,7 @@ export default {
       }, 300)
     },
     PortoDesktop () {
-      this.$router.push('/detetive-particular-em-Porto#sobre')
+      this.$router.push('/detective-privado-em-Porto#sobre')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -678,7 +678,7 @@ export default {
       }, 300)
     },
     SantaremDesktop () {
-      this.$router.push('/detetive-particular-em-Santarem#sobre')
+      this.$router.push('/detective-privado-em-Santarem#sobre')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -689,7 +689,7 @@ export default {
       }, 300)
     },
     SetubalDesktop () {
-      this.$router.push('/detetive-particular-em-Setubal#sobre')
+      this.$router.push('/detective-privado-em-Setubal#sobre')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -700,7 +700,7 @@ export default {
       }, 300)
     },
     VianaDoCasteloDesktop () {
-      this.$router.push('/detetive-particular-em-Viana-do-Castelo#sobre')
+      this.$router.push('/detective-privado-em-Viana-do-Castelo#sobre')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -711,7 +711,7 @@ export default {
       }, 300)
     },
     VilaRealDesktop () {
-      this.$router.push('/detetive-particular-em-Vila-Real#sobre')
+      this.$router.push('/detective-privado-em-Vila-Real#sobre')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -722,7 +722,7 @@ export default {
       }, 300)
     },
     ViseuDesktop () {
-      this.$router.push('/detetive-particular-em-Viseu#sobre')
+      this.$router.push('/detective-privado-em-Viseu#sobre')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -734,7 +734,7 @@ export default {
     },
     // FUNÇÕES DAS CIDADES MOBILE
     AveiroMobile () {
-      this.$router.push('/detetive-particular-em-Aveiro#sobre')
+      this.$router.push('/detective-privado-em-Aveiro#sobre')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -743,7 +743,7 @@ export default {
       this.CloseNav()
     },
     BragaMobile () {
-      this.$router.push('/detetive-particular-em-Braga#sobre')
+      this.$router.push('/detective-privado-em-Braga#sobre')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -752,7 +752,7 @@ export default {
       this.CloseNav()
     },
     BragancaMobile () {
-      this.$router.push('/detetive-particular-em-Braganca#sobre')
+      this.$router.push('/detective-privado-em-Braganca#sobre')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -761,7 +761,7 @@ export default {
       this.CloseNav()
     },
     CasteloBrancoMobile () {
-      this.$router.push('/detetive-particular-em-Castelo-Branco#sobre')
+      this.$router.push('/detective-privado-em-Castelo-Branco#sobre')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -770,7 +770,7 @@ export default {
       this.CloseNav()
     },
     CoimbraMobile () {
-      this.$router.push('/detetive-particular-em-Coimbra#sobre')
+      this.$router.push('/detective-privado-em-Coimbra#sobre')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -779,7 +779,7 @@ export default {
       this.CloseNav()
     },
     EvoraMobile () {
-      this.$router.push('/detetive-particular-em-Evora#sobre')
+      this.$router.push('/detective-privado-em-Evora#sobre')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -788,7 +788,7 @@ export default {
       this.CloseNav()
     },
     FaroMobile () {
-      this.$router.push('/detetive-particular-em-Faro#sobre')
+      this.$router.push('/detective-privado-em-Faro#sobre')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -797,7 +797,7 @@ export default {
       this.CloseNav()
     },
     GuardaMobile () {
-      this.$router.push('/detetive-particular-em-Guarda#sobre')
+      this.$router.push('/detective-privado-em-Guarda#sobre')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -806,7 +806,7 @@ export default {
       this.CloseNav()
     },
     LeiriaMobile () {
-      this.$router.push('/detetive-particular-em-Leiria#sobre')
+      this.$router.push('/detective-privado-em-Leiria#sobre')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -815,7 +815,7 @@ export default {
       this.CloseNav()
     },
     LisboaMobile () {
-      this.$router.push('/detetive-particular-em-Lisboa#sobre')
+      this.$router.push('/detective-privado-em-Lisboa#sobre')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -824,7 +824,7 @@ export default {
       this.CloseNav()
     },
     PortalegreMobile () {
-      this.$router.push('/detetive-particular-em-Portalegre#sobre')
+      this.$router.push('/detective-privado-em-Portalegre#sobre')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -833,7 +833,7 @@ export default {
       this.CloseNav()
     },
     PortoMobile () {
-      this.$router.push('/detetive-particular-em-Porto#sobre')
+      this.$router.push('/detective-privado-em-Porto#sobre')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -842,7 +842,7 @@ export default {
       this.CloseNav()
     },
     SantaremMobile () {
-      this.$router.push('/detetive-particular-em-Santarem#sobre')
+      this.$router.push('/detective-privado-em-Santarem#sobre')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -851,7 +851,7 @@ export default {
       this.CloseNav()
     },
     SetubalMobile () {
-      this.$router.push('/detetive-particular-em-Setubal#sobre')
+      this.$router.push('/detective-privado-em-Setubal#sobre')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -860,7 +860,7 @@ export default {
       this.CloseNav()
     },
     VianaDoCasteloMobile () {
-      this.$router.push('/detetive-particular-em-Viana-do-Castelo#sobre')
+      this.$router.push('/detective-privado-em-Viana-do-Castelo#sobre')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -869,7 +869,7 @@ export default {
       this.CloseNav()
     },
     VilaRealMobile () {
-      this.$router.push('/detetive-particular-em-Vila-Real#sobre')
+      this.$router.push('/detective-privado-em-Vila-Real#sobre')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -878,7 +878,7 @@ export default {
       this.CloseNav()
     },
     ViseuMobile () {
-      this.$router.push('/detetive-particular-em-Viseu#sobre')
+      this.$router.push('/detective-privado-em-Viseu#sobre')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,

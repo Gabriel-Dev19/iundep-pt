@@ -190,7 +190,7 @@ export default {
     },
     // Chamadas cidades desktop
     Aveiro () {
-      this.$router.push('/detetive-particular-em-Aveiro')
+      this.$router.push('/detective-privado-em-Aveiro')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -198,7 +198,7 @@ export default {
       })
     },
     Braga () {
-      this.$router.push('/detetive-particular-em-Braga')
+      this.$router.push('/detective-privado-em-Braga')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -206,7 +206,7 @@ export default {
       })
     },
     Braganca () {
-      this.$router.push('/detetive-particular-em-Braganca')
+      this.$router.push('/detective-privado-em-Braganca')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -214,7 +214,7 @@ export default {
       })
     },
     CasteloBranco () {
-      this.$router.push('/detetive-particular-em-Castelo-Branco')
+      this.$router.push('/detective-privado-em-Castelo-Branco')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -222,7 +222,7 @@ export default {
       })
     },
     Coimbra () {
-      this.$router.push('/detetive-particular-em-Coimbra')
+      this.$router.push('/detective-privado-em-Coimbra')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -230,7 +230,7 @@ export default {
       })
     },
     Evora () {
-      this.$router.push('/detetive-particular-em-Evora')
+      this.$router.push('/detective-privado-em-Evora')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -238,7 +238,7 @@ export default {
       })
     },
     Faro () {
-      this.$router.push('/detetive-particular-em-Faro')
+      this.$router.push('/detective-privado-em-Faro')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -246,7 +246,7 @@ export default {
       })
     },
     Guarda () {
-      this.$router.push('/detetive-particular-em-Guarda')
+      this.$router.push('/detective-privado-em-Guarda')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -254,7 +254,7 @@ export default {
       })
     },
     Leiria () {
-      this.$router.push('/detetive-particular-em-Leiria')
+      this.$router.push('/detective-privado-em-Leiria')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -262,7 +262,7 @@ export default {
       })
     },
     Lisboa () {
-      this.$router.push('/detetive-particular-em-Lisboa')
+      this.$router.push('/detective-privado-em-Lisboa')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -270,7 +270,7 @@ export default {
       })
     },
     Portalegre () {
-      this.$router.push('/detetive-particular-em-Portalegre')
+      this.$router.push('/detective-privado-em-Portalegre')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -278,7 +278,7 @@ export default {
       })
     },
     Porto () {
-      this.$router.push('/detetive-particular-em-Porto')
+      this.$router.push('/detective-privado-em-Porto')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -286,7 +286,7 @@ export default {
       })
     },
     Santarem () {
-      this.$router.push('/detetive-particular-em-Santarem')
+      this.$router.push('/detective-privado-em-Santarem')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -294,7 +294,7 @@ export default {
       })
     },
     Setubal () {
-      this.$router.push('/detetive-particular-em-Setubal')
+      this.$router.push('/detective-privado-em-Setubal')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -302,7 +302,7 @@ export default {
       })
     },
     VianaDoCastelo () {
-      this.$router.push('/detetive-particular-em-Viana-do-Castelo')
+      this.$router.push('/detective-privado-em-Viana-do-Castelo')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -310,7 +310,7 @@ export default {
       })
     },
     VilaReal () {
-      this.$router.push('/detetive-particular-em-Vila-Real')
+      this.$router.push('/detective-privado-em-Vila-Real')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -318,7 +318,7 @@ export default {
       })
     },
     Viseu () {
-      this.$router.push('/detetive-particular-em-Viseu')
+      this.$router.push('/detective-privado-em-Viseu')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -327,7 +327,7 @@ export default {
     },
     // Chamada cidades mobile
     AveiroMobile () {
-      this.$router.push('/detetive-particular-em-Aveiro')
+      this.$router.push('/detective-privado-em-Aveiro')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -335,7 +335,7 @@ export default {
       })
     },
     BragaMobile () {
-      this.$router.push('/detetive-particular-em-Braga')
+      this.$router.push('/detective-privado-em-Braga')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -343,7 +343,7 @@ export default {
       })
     },
     BragancaMobile () {
-      this.$router.push('/detetive-particular-em-Braganca')
+      this.$router.push('/detective-privado-em-Braganca')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -351,7 +351,7 @@ export default {
       })
     },
     CasteloBrancoMobile () {
-      this.$router.push('/detetive-particular-em-Castelo-Branco')
+      this.$router.push('/detective-privado-em-Castelo-Branco')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -359,7 +359,7 @@ export default {
       })
     },
     CoimbraMobile () {
-      this.$router.push('/detetive-particular-em-Coimbra')
+      this.$router.push('/detective-privado-em-Coimbra')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -367,7 +367,7 @@ export default {
       })
     },
     EvoraMobile () {
-      this.$router.push('/detetive-particular-em-Evora')
+      this.$router.push('/detective-privado-em-Evora')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -375,7 +375,7 @@ export default {
       })
     },
     FaroMobile () {
-      this.$router.push('/detetive-particular-em-Faro')
+      this.$router.push('/detective-privado-em-Faro')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -383,7 +383,7 @@ export default {
       })
     },
     GuardaMobile () {
-      this.$router.push('/detetive-particular-em-Guarda')
+      this.$router.push('/detective-privado-em-Guarda')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -391,7 +391,7 @@ export default {
       })
     },
     LeiriaMobile () {
-      this.$router.push('/detetive-particular-em-Leiria')
+      this.$router.push('/detective-privado-em-Leiria')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -399,7 +399,7 @@ export default {
       })
     },
     LisboaMobile () {
-      this.$router.push('/detetive-particular-em-Lisboa')
+      this.$router.push('/detective-privado-em-Lisboa')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -407,7 +407,7 @@ export default {
       })
     },
     PortalegreMobile () {
-      this.$router.push('/detetive-particular-em-Portalegre')
+      this.$router.push('/detective-privado-em-Portalegre')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -415,7 +415,7 @@ export default {
       })
     },
     PortoMobile () {
-      this.$router.push('/detetive-particular-em-Porto')
+      this.$router.push('/detective-privado-em-Porto')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -423,7 +423,7 @@ export default {
       })
     },
     SantaremMobile () {
-      this.$router.push('/detetive-particular-em-Santarem')
+      this.$router.push('/detective-privado-em-Santarem')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -431,7 +431,7 @@ export default {
       })
     },
     SetubalMobile () {
-      this.$router.push('/detetive-particular-em-Setubal')
+      this.$router.push('/detective-privado-em-Setubal')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -439,7 +439,7 @@ export default {
       })
     },
     VianaDoCasteloMobile () {
-      this.$router.push('/detetive-particular-em-Viana-do-Castelo')
+      this.$router.push('/detective-privado-em-Viana-do-Castelo')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -447,7 +447,7 @@ export default {
       })
     },
     VilaRealMobile () {
-      this.$router.push('/detetive-particular-em-Vila-Real')
+      this.$router.push('/detective-privado-em-Vila-Real')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -455,7 +455,7 @@ export default {
       })
     },
     ViseuMobile () {
-      this.$router.push('/detetive-particular-em-Viseu')
+      this.$router.push('/detective-privado-em-Viseu')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
