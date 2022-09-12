@@ -162,7 +162,7 @@
             <div class="container mt-xs-70 mt-sm-50 mt-xl-120 d-flex align-items-center row mx-auto justify-content-xs-center justify-content-sm-center justify-content-xl-between position-absolute">
               <div class="col-md-10 col-xl-5 animate__animated animate__fadeInLeft px-0">
                 <h1 class="text-white text-xs-center text-sm-center text-xl-left fs-sm-45">
-                  Monitore telemóveles por meio do <span class="text-azul-light fw-600">programa de telemóvel VIP</span>
+                  Monitore telemóveis por meio do <span class="text-azul-light fw-600">programa de telemóvel VIP</span>
                 </h1>
                 <p class="text-white text-xs-center text-sm-center text-xl-left mt-3 mb-0">
                   Monitore o telemóvel de seu(a) filho(a) e tenha acesso a: <span class="text-azul-light fw-700">conversas de WhatsApp,
