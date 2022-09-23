@@ -344,7 +344,7 @@
                   Telefones para contacto
                 </h4>
                 <div class="pr-35 mt-20 col-10 mx-auto">
-                  <btn-quatro-sete />
+                  <BtnTelefoneContato />
                   <btn-quatro-oito class="mt-15" />
                   <btn-quatro-um class="mt-15" />
                   <btn-quatro-nove class="mt-15" />
@@ -358,7 +358,9 @@
   </div>
 </template>
 <script>
+import BtnTelefoneContato from './buttons/BtnTelefoneContato.vue'
 export default {
+  components: { BtnTelefoneContato },
   data () {
     return {
       ShowDropdownServicos: false,
