@@ -345,9 +345,6 @@
                 </h4>
                 <div class="pr-35 mt-20 col-10 mx-auto">
                   <BtnTelefoneContato />
-                  <btn-quatro-oito class="mt-15" />
-                  <btn-quatro-um class="mt-15" />
-                  <btn-quatro-nove class="mt-15" />
                 </div>
               </aside>
             </transition>
